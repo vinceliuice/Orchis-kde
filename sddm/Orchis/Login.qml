@@ -41,10 +41,10 @@ SessionManagementScreen {
     PlasmaComponents.TextField {
         id: userNameInput
         Layout.fillWidth: true
-        Layout.minimumHeight: 28
-        implicitHeight: root.height / 28
+        Layout.minimumHeight: 32
+        implicitHeight: usernameFontSize * 2.85
+        font.pointSize: usernameFontSize * 0.8
         font.family: config.Font || "Noto Sans"
-        font.pointSize: usernameFontSize
         opacity: 1.0
         text: lastUserName
         visible: showUsernamePrompt
@@ -58,7 +58,7 @@ SessionManagementScreen {
                 radius: 6
                 border.color: "#1A73E8"
                 border.width: 2
-                color: "#262626"
+                color: "#48316f"
             }
         }
     }
@@ -85,7 +85,7 @@ SessionManagementScreen {
                 radius: 6
                 border.color: "#1A73E8"
                 border.width: 2
-                color: "#262626"
+                color: "#48316f"
             }
         }
 
