@@ -14,5 +14,5 @@ X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/vinceliuice/Orchis-kde
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-fallbackPackage=org.kde.breeze.desktop
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1354044,kns://plasma-themes.knsrc/api.kde-look.org/1354050,kns://aurorae.knsrc/api.kde-look.org/1354048,kns://icons.knsrc/api.kde-look.org/1279924,kns://wallpaper.knsrc/api.kde-look.org/1307853,kns://sddmtheme.knsrc/api.kde-look.org/1354053,kns://xcursor.knsrc/api.kde-look.org/1358330
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1458910,kns://plasma-themes.knsrc/api.kde-look.org/1458916,kns://aurorae.knsrc/api.kde-look.org/1458912,kns://icons.knsrc/api.kde-look.org/1359276,kns://wallpaper.knsrc/api.kde-look.org/1458908,kns://sddmtheme.knsrc/api.kde-look.org/1458914,kns://xcursor.knsrc/api.kde-look.org/1358330
 X-Plasma-MainScript=defaults
