@@ -1,0 +1,206 @@
+<svg width="173" height="56" version="1.1" viewBox="0 0 173 56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }</style>
+ <defs>
+  <linearGradient id="linearGradient4270">
+   <stop stop-opacity=".66663" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4920" x1="-916.36" x2="-905.36" y1="-35" y2="-35" gradientTransform="matrix(1.5 0 0 1 458.18 0)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4270"/>
+  <linearGradient id="linearGradient4934" x1="948.36" x2="959.36" y1="-35" y2="-35" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4270"/>
+  <linearGradient id="linearGradient4948" x1="-19" x2="-10" y1="932.36" y2="932.36" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4270"/>
+  <linearGradient id="linearGradient4950" x1="51" x2="60" y1="932.36" y2="932.36" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4270"/>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+  <radialGradient id="radialGradient994" cx="77" cy="12" r="6" gradientTransform="matrix(-1.8522e-5 -3.6667 3 -1.5155e-5 -39.999 1232.7)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4270"/>
+ </defs>
+ <g transform="translate(0 -904.36)">
+  <g id="shadow-topleft" transform="translate(60 -28)" opacity=".15">
+   <path d="m-28 926.36v24h12c0-6.648 5.352-12 12-12v-12z" fill="url(#radialGradient994)" fill-rule="evenodd" opacity=".9"/>
+  </g>
+  <rect id="hint-tile-center" y="904.36" width="5" height="5" fill="#f60"/>
+  <g id="top" transform="matrix(.625 0 0 2 44.125 -910.36)">
+   <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="6" height="32" color="#eff0f1" opacity=".8"/>
+  </g>
+  <g id="topleft" transform="translate(31)">
+   <path transform="translate(-31 904.36)" d="m55 6c-6.094 0-11 4.906-11 11v1h12v-12z" opacity=".8"/>
+  </g>
+  <g id="bottom" transform="matrix(.625 0 0 2 44.125 -954.37)">
+   <rect class="ColorScheme-Background" transform="rotate(90)" x="948.36" y="-51" width="6" height="32" color="#eff0f1" opacity=".8"/>
+  </g>
+  <g id="left" transform="matrix(2 0 0 .625 18 349.64)">
+   <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-19" y="916.36" width="6" height="32" color="#eff0f1" opacity=".8"/>
+  </g>
+  <g id="right" transform="matrix(2 0 0 .625 -26 349.64)">
+   <rect class="ColorScheme-Background" x="51" y="916.36" width="6" height="32" color="#eff0f1" opacity=".8"/>
+  </g>
+  <rect id="center" class="ColorScheme-Background" x="56" y="922.36" width="20" height="20" color="#eff0f1" opacity=".8"/>
+  <rect id="hint-top-margin" x="64" y="910.36" width="4" height="8" fill="#f0f"/>
+  <rect id="hint-bottom-margin" x="64" y="946.36" width="4" height="8.0001" fill="#f0f"/>
+  <rect id="hint-right-margin" transform="rotate(90)" x="930.36" y="-88" width="4" height="8" fill="#f0f"/>
+  <rect id="hint-left-margin" transform="rotate(90)" x="930.36" y="-52" width="4" height="8" fill="#f0f"/>
+  <g id="shadow-top" transform="matrix(.625 0 0 1.3333 44.125 -299.45)" opacity=".15">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="6" height="32" fill="none" opacity="1"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-907.36" y="-51" width="9" height="32" fill="url(#linearGradient4920)" opacity=".9"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-911.36" y="-51" width=".99998" height="32" fill="none" opacity="1"/>
+  </g>
+  <g id="shadow-bottom" transform="matrix(.625 0 0 2 44.125 -954.36)" opacity=".15">
+   <rect transform="rotate(90)" x="948.36" y="-51" width="6" height="32" fill="none" opacity="1"/>
+   <rect transform="rotate(90)" x="954.36" y="-51" width="6" height="32" fill="url(#linearGradient4934)" opacity=".9"/>
+   <rect transform="rotate(90)" x="953.36" y="-51" width="1" height="32" fill="none" opacity="1"/>
+  </g>
+  <g id="shadow-left" transform="matrix(2 0 0 .625 18 349.63)" opacity=".15">
+   <rect transform="scale(-1,1)" x="-19" y="916.36" width="6" height="32" fill="none" opacity="1"/>
+   <rect transform="scale(-1,1)" x="-13" y="916.36" width="6" height="32" fill="url(#linearGradient4948)" opacity=".9"/>
+   <rect transform="scale(-1,1)" x="-14" y="916.36" width="1" height="32" fill="none" opacity="1"/>
+  </g>
+  <g id="shadow-right" transform="matrix(2 0 0 .625 -26 349.63)" opacity=".15">
+   <rect x="51" y="916.36" width="6" height="32" fill="none" opacity="1"/>
+   <rect x="57" y="916.36" width="6" height="32" fill="url(#linearGradient4950)" opacity=".9"/>
+   <rect x="56" y="916.36" width="1" height="32" fill="none" opacity="1"/>
+  </g>
+  <rect id="shadow-hint-top-margin" x="64" y="898.36" width="4" height="12" fill="#f60"/>
+  <rect id="shadow-hint-bottom-margin" x="64" y="954.36" width="4" height="12" fill="#f60"/>
+  <rect id="shadow-hint-right-margin" transform="rotate(90)" x="930.36" y="-100" width="4" height="12" fill="#f60"/>
+  <rect id="shadow-hint-left-margin" transform="rotate(90)" x="930.36" y="-44" width="4" height="12" fill="#f60"/>
+  <g id="mask-top" transform="matrix(.625 0 0 1 114.12 -.001589)">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-922.36" y="-51" width="12" height="32"/>
+  </g>
+  <g id="mask-bottom" transform="matrix(.625 0 0 1.2 114.12 -190.88)">
+   <rect transform="rotate(90)" x="944.36" y="-51" width="10" height="32"/>
+  </g>
+  <g id="mask-left" transform="matrix(1.0909 0 0 1 99.818 0)">
+   <rect transform="scale(-1,1)" x="-24" y="922.36" width="11" height="20"/>
+  </g>
+  <g id="mask-right" transform="matrix(1.2 0 0 .625 89.6 349.63)">
+   <rect x="47" y="916.36" width="10" height="32"/>
+  </g>
+  <rect id="mask-center" x="126" y="922.36" width="20" height="20"/>
+  <text x="195.14162" y="134.59453" fill="#000000" font-family="'Gill Sans'" font-size="14px" font-weight="bold" text-align="justify" style="line-height:125%" xml:space="preserve"/>
+  <g id="shadow-topright" transform="matrix(-1 0 0 1 72 -28)" opacity=".15">
+   <path d="m-28 926.36v24h12c0-6.648 5.352-12 12-12v-12z" fill="url(#radialGradient994)" fill-rule="evenodd" opacity=".9"/>
+  </g>
+  <g id="shadow-bottomleft" transform="matrix(1 0 0 -1 60 1892.7)" opacity=".15">
+   <path d="m-28 926.36v24h12c0-6.648 5.352-12 12-12v-12z" fill="url(#radialGradient994)" fill-rule="evenodd" opacity=".9"/>
+  </g>
+  <g id="shadow-bottomright" transform="rotate(180 36 946.36)" opacity=".15">
+   <path d="m-28 926.36v24h12c0-6.648 5.352-12 12-12v-12z" fill="url(#radialGradient994)" fill-rule="evenodd" opacity=".9"/>
+  </g>
+  <use id="topright" transform="rotate(90 66 932.36)" width="100%" height="100%" xlink:href="#topleft"/>
+  <use id="bottomleft" transform="matrix(1 0 0 -1 0 1864.7)" width="100%" height="100%" xlink:href="#topleft"/>
+  <use id="bottomright" transform="rotate(180 66 932.36)" width="100%" height="100%" xlink:href="#topleft"/>
+  <g id="mask-topleft" transform="translate(101 1.1025e-5)">
+   <path transform="matrix(1.0909 0 0 1.0909 -127.73 903.82)" d="m140 6c-6.094 0-11 4.906-11 11h11z"/>
+  </g>
+  <use id="mask-topright" transform="matrix(-1,0,0,1,272,0)" width="100%" height="100%" xlink:href="#mask-topleft"/>
+  <use id="mask-bottomleft" transform="matrix(1 0 0 -1 2.85e-7 1864.7)" width="100%" height="100%" xlink:href="#mask-topleft"/>
+  <use id="mask-bottomright" transform="rotate(180 136 932.36)" width="100%" height="100%" xlink:href="#mask-topleft"/>
+  <rect id="shadow-center" class="ColorScheme-Background" x="56" y="976.36" width="20" height="20" color="#eff0f1" opacity="0" stroke-width=".625"/>
+ </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  <style type="text/css"/>
+ </defs>
+ <g id="computer">
+  <rect x="-3" y="-36.983" width="32" height="32" rx="0" ry="0" opacity="0"/>
+  <path d="m5-29h16c1.108 0 2 0.892 2 2v10c0 1.108-0.892 2-2 2h-7v2h2.5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-7c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5h2.5v-2h-7c-1.108 0-2-0.892-2-2v-10c0-1.108 0.892-2 2-2zm0 1c-0.554 0-1 0.446-1 1v9h18v-9c0-0.554-0.446-1-1-1zm-1 11c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m13-35.982a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0 0.98242a14 14 0 0 1 14 14 14 14 0 0 1-14 14 14 14 0 0 1-14-14 14 14 0 0 1 14-14z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <g id="computer-laptop">
+  <path d="m51-29h16c1.108 0 2 0.892 2 2v10c0 1.108-0.892 2-2 2h-16c-1.108 0-2-0.892-2-2v-10c0-1.108 0.892-2 2-2zm0 1c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h16c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm-1.5 14h19c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-19c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="43" y="-36.983" width="32" height="32" rx="0" ry="0" opacity="0"/>
+  <path d="m59-35.982c-8.2843 0-15 6.7157-15 15s6.7157 15 15 15 15-6.7157 15-15-6.7157-15-15-15zm0 0.98242a14 14 0 0 1 14 14 14 14 0 0 1-14 14 14 14 0 0 1-14-14 14 14 0 0 1 14-14z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <g id="22-22-computer">
+  <rect transform="scale(-1,1)" x="-22" width="22" height="22" color="#333333" opacity="0" stroke-width="2"/>
+  <g fill="#333333">
+   <path d="m3 3c-1.108 0-2 0.892-2 2v11c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-11c0-1.108-0.892-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v11c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-11c0-0.554 0.446-1 1-1z"/>
+   <rect x="5" y="19" width="12" height="1" rx="0" ry=".5"/>
+   <rect x="2" y="4" width="18" height="13" rx="1" ry="0" opacity=".35"/>
+  </g>
+ </g>
+ <g id="22-22-computer-laptop" transform="translate(51)">
+  <rect transform="scale(-1,1)" x="-22" width="22" height="22" color="#333333" opacity="0" stroke-width="2"/>
+  <g fill="#333333">
+   <path d="m3 3c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z"/>
+   <rect x="1" y="18" width="20" height="1" rx="0" ry=".5" stroke-width=".95346"/>
+   <path d="m3 4h16c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" opacity=".35"/>
+  </g>
+ </g>
+ <g id="16-16-computer">
+  <rect transform="scale(-1,1)" x="-18" y="28" width="16" height="16" fill="none"/>
+  <rect transform="scale(-1,1)" x="-18" y="28" width="16" height="16" color="#333333" opacity="0" stroke-width="3"/>
+  <g fill="#333333">
+   <path d="m3 29c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm0 1h14v10h-14z"/>
+   <rect x="6" y="42" width="8" height="1" rx="0" ry=".5"/>
+   <rect x="3" y="30" width="14" height="10" rx="0" ry="0" opacity=".35"/>
+  </g>
+ </g>
+ <g id="16-16-computer-laptop" transform="translate(49)">
+  <rect transform="scale(-1,1)" x="-18" y="28" width="16" height="16" fill="none"/>
+  <rect transform="scale(-1,1)" x="-18" y="28" width="16" height="16" color="#333333" opacity="0" stroke-width="3"/>
+  <g fill="#333333">
+   <path d="m3 29c-0.554 0-1 0.446-1 1v9c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-9c0-0.554-0.446-1-1-1zm0 1h14v9h-14z"/>
+   <rect x="2" y="41" width="16" height="1" rx="0" ry=".5"/>
+   <rect x="3" y="30" width="14" height="9" rx="0" ry="0" opacity=".35"/>
+  </g>
+ </g>
+</svg>

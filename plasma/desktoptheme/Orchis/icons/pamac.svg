@@ -1,0 +1,17 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#333333;}.ColorScheme-Highlight{color:#5294e2;}</style>
+ </defs>
+ <defs>
+  <style type="text/css"/>
+ </defs>
+ <g id="pamac-tray-no-update">
+  <rect width="22" height="22" opacity="0"/>
+  <path d="m11 3.5-6 2v7c0 2.07 1.5795 3.4895 2.9395 4.4395s3.0605 1.5605 3.0605 1.5605 1.7005-0.6106 3.0605-1.5605c1.36-0.96 2.9395-2.3995 2.9395-4.4395v-7zm0 3.5 3 4h-2v3h-2v-3h-2z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <g id="pamac-tray-update">
+  <rect x="25" width="22" height="22" opacity="0"/>
+  <path d="m36 3.5-6 2v7c0 2.07 1.5795 3.4895 2.9395 4.4395s3.0605 1.5605 3.0605 1.5605 0.72619-0.27351 1.5938-0.70898a3 3 0 0 1-0.59375-1.791 3 3 0 0 1 3-3 3 3 0 0 1 1.8203 0.61719c0.10639-0.35242 0.17969-0.72017 0.17969-1.1172v-7zm0 3.5 3 4h-2v3h-2v-3h-2z" class="ColorScheme-Text" fill="currentColor"/>
+  <circle cx="40" cy="16" r="2" class="ColorScheme-Highlight" fill="currentColor"/>
+ </g>
+</svg>

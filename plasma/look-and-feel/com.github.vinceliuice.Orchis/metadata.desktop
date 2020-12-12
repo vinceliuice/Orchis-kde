@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Orchis theme for kde plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Orchis
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Vince Liuice
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=com.github.vinceliuice.Orchis
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/vinceliuice/Orchis-kde
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1354044,kns://plasma-themes.knsrc/api.kde-look.org/1371808,kns://aurorae.knsrc/api.kde-look.org/1354048,kns://icons.knsrc/api.kde-look.org/1359276,kns://wallpaper.knsrc/api.kde-look.org/1307853,kns://sddmtheme.knsrc/api.kde-look.org/1354053,kns://xcursor.knsrc/api.kde-look.org/1358330
+X-Plasma-MainScript=defaults

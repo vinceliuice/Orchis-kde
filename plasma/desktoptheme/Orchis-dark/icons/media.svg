@@ -1,0 +1,55 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g fill="currentColor">
+  <g id="media-record" transform="translate(22 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Highlight" d="m11 1035.4c-3.311 0-6 2.6888-6 6 0 3.311 2.689 6 6 6s6-2.689 6-6c0-3.3112-2.689-6-6-6z" enable-background="new" fill="#f96060"/>
+  </g>
+  <g id="media-playback-stop" transform="translate(44 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m5 1035.4v12h12v-12z" enable-background="new" fill="#dedede"/>
+  </g>
+  <g id="media-skip-forward" transform="translate(66 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m19 1037.4v8h-2v-8h2zm-2 4-7 4v-8l7 4zm-7 0-7 4v-8l7 4z" enable-background="new" fill="#dedede"/>
+  </g>
+  <g id="media-skip-backward" transform="matrix(-1 0 0 1 110 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m19 1037.4v8h-2v-8h2zm-2 4-7 4v-8l7 4zm-7 0-7 4v-8l7 4z" enable-background="new" fill="#dedede"/>
+  </g>
+  <g id="media-seek-forward" transform="translate(110 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m11 1037.4 7 4-7 4v-8zm0 4-7 4v-8l7 4z" enable-background="new" fill="#dedede"/>
+  </g>
+  <g id="media-seek-backward" transform="matrix(-1 0 0 1 154 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m11 1037.4 7 4-7 4v-8zm0 4-7 4v-8l7 4z" enable-background="new" fill="#dedede"/>
+  </g>
+  <g id="media-eject" transform="translate(-44 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m11 1036.4-5 5v1h10v-1zm-5 8v2h10v-2z" color="#dedede" display="block" fill="#dedede"/>
+  </g>
+  <g id="media-playback-pause" transform="translate(-22 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m5 1035.4v12h4v-12h-4zm8 0v12h4v-12h-4z" enable-background="new" fill="#dedede"/>
+  </g>
+  <g id="media-playback-start" transform="translate(0 -1030.4)">
+   <rect y="1030.4" width="22" height="22" opacity=".001"/>
+   <path class="ColorScheme-Text" d="m6 1035.4v12l11-6-9.8992-5.3996z" enable-background="new" fill="#dedede"/>
+  </g>
+  <g id="media-playback-paused" class="ColorScheme-Text" transform="matrix(1.5 0 0 1.5 -4.6412 -1522.6)" color="#31363b">
+   <rect x="3.6667" y="1034" width="14.667" height="14.667" fill="#ed1515" fill-opacity=".0039216" opacity=".01"/>
+   <path class="ColorScheme-Text" d="m11.667 1039.4h1.3334v4.0002h-1.3334zm-2.6668 0h1.3334v4.0002h-1.3334zm2.0001-3.3334c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335z" color="#31363b" fill="#dedede"/>
+  </g>
+  <g id="media-playback-playing" class="ColorScheme-Text" transform="matrix(1.5 0 0 1.5 19.358 -1522.6)" color="#31363b">
+   <rect x="3.667" y="1034" width="14.667" height="14.667" fill="#ed1515" fill-opacity=".0039216" opacity=".01"/>
+   <path transform="matrix(.66668 0 0 .66668 -12.906 1015.1)" d="m35.857 31.402c-4.4324 0-8 3.5676-8 8s3.5676 8 8 8 8.002-3.5676 8.002-8-3.5696-8-8.002-8zm-2 5 4 3-4 3v-6z" color="#31363b" fill="#dedede"/>
+  </g>
+  <g id="media-playback-stopped" class="ColorScheme-Text" transform="matrix(1.5 0 0 1.5 43.358 -1522.6)" color="#31363b">
+   <rect x="3.6673" y="1034" width="14.667" height="14.667" fill="#ed1515" fill-opacity=".0039216" opacity=".01"/>
+   <path class="ColorScheme-Text" d="m8.9999 1039.4h4.0002v4.0002h-4.0002zm2.0001-3.3334c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335z" color="#31363b" fill="#dedede"/>
+  </g>
+ </g>
+</svg>

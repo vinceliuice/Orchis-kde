@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="background.svg"
+   id="svg86"
+   viewBox="0 0 121 56"
+   version="1.1"
+   height="56"
+   width="121">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg86"
+     inkscape:window-maximized="1"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="44.49875"
+     inkscape:cx="114.65282"
+     inkscape:zoom="3.5544743"
+     showgrid="false"
+     id="namedview88"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs13">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }</style>
+    <linearGradient
+       id="a">
+      <stop
+         id="stop3"
+         offset="0" />
+      <stop
+         id="stop5"
+         offset="1"
+         stop-opacity="0" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#a"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(.00013182 -3.5001 3.4999 .00013185 -23.002 78.501)"
+       r="6"
+       cy="12"
+       cx="19"
+       id="radialGradient1259" />
+    <linearGradient
+       xlink:href="#a"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3 0 0 1 1820.7 0)"
+       y2="-35"
+       y1="-35"
+       x2="-905.36"
+       x1="-912.36"
+       id="linearGradient948" />
+    <linearGradient
+       xlink:href="#a"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3,0,0,1,26,0)"
+       y2="932.36"
+       y1="932.36"
+       x2="-8"
+       x1="-15"
+       id="linearGradient952" />
+    <linearGradient
+       xlink:href="#a"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3 0 0 1 -1908.7 0)"
+       y2="-35"
+       y1="-35"
+       x2="959.36"
+       x1="952.36"
+       id="linearGradient956" />
+    <linearGradient
+       xlink:href="#a"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3,0,0,1,-114,0)"
+       y2="932.36"
+       y1="932.36"
+       x2="62"
+       x1="55"
+       id="linearGradient958" />
+  </defs>
+  <g
+     transform="translate(15,-904.36)"
+     id="topleft">
+    <g
+       id="g17"
+       fill-rule="evenodd">
+      <path
+         style="opacity:0.1"
+         id="path15"
+         stroke-width="2"
+         opacity=".15"
+         fill="url(#radialGradient1259)"
+         d="m-5-12v24h18c0-3.324 2.676-6 6-6v-18z"
+         transform="translate(0,904.36)" />
+    </g>
+    <path
+       id="path19"
+       opacity=".6"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       d="m19 6c-3.324 0-6 2.676-6 6h6v-5z"
+       transform="translate(0,904.36)" />
+  </g>
+  <rect
+     fill="#f60"
+     height="5"
+     width="5"
+     y="-1.4648e-5"
+     id="hint-tile-center" />
+  <g
+     transform="translate(15,-904.36)"
+     id="top">
+    <rect
+       id="rect23"
+       opacity=".6"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       height="32"
+       width="6"
+       y="-51"
+       x="-916.36"
+       transform="matrix(0,-1,-1,0,0,0)"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.1"
+       id="rect25"
+       stroke-width="1.732"
+       opacity=".15"
+       fill="url(#linearGradient948)"
+       height="32"
+       width="18"
+       y="-51"
+       x="-910.36"
+       transform="matrix(0,-1,-1,0,0,0)" />
+  </g>
+  <g
+     transform="translate(15,-904.36)"
+     id="bottom">
+    <rect
+       id="rect28"
+       opacity=".6"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       height="32"
+       width="6"
+       y="-51"
+       x="948.36"
+       transform="rotate(90)"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.1"
+       id="rect30"
+       stroke-width="1.732"
+       opacity=".15"
+       fill="url(#linearGradient956)"
+       height="32"
+       width="18"
+       y="-51"
+       x="954.36"
+       transform="rotate(90)" />
+  </g>
+  <g
+     transform="translate(15,-904.36)"
+     id="left">
+    <rect
+       id="rect33"
+       opacity=".6"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       height="32"
+       width="6"
+       y="916.36"
+       x="-19"
+       transform="scale(-1,1)"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.1"
+       id="rect35"
+       stroke-width="1.732"
+       opacity=".15"
+       fill="url(#linearGradient952)"
+       height="32"
+       width="18"
+       y="916.36"
+       x="-13"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     transform="translate(15,-904.36)"
+     id="right">
+    <rect
+       id="rect38"
+       opacity=".6"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       height="32"
+       width="6"
+       y="916.36"
+       x="51"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.1"
+       id="rect40"
+       stroke-width="1.732"
+       opacity=".15"
+       fill="url(#linearGradient958)"
+       height="32"
+       width="18"
+       y="916.36"
+       x="57" />
+  </g>
+  <g
+     transform="translate(15,-904.36)"
+     id="center">
+    <rect
+       id="rect43"
+       fill="none"
+       height="32"
+       width="32"
+       y="916.36"
+       x="19" />
+    <rect
+       id="rect45"
+       opacity=".6"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       height="32"
+       width="32"
+       y="916.36"
+       x="19"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="g52"
+     stroke-width="1.4142"
+     fill="#f0f">
+    <rect
+       height="24"
+       width="4"
+       y="-12"
+       x="48"
+       id="hint-top-margin" />
+    <rect
+       height="24"
+       width="4"
+       y="44"
+       x="48"
+       id="hint-bottom-margin" />
+    <rect
+       height="24"
+       width="4"
+       y="-90"
+       x="26"
+       transform="rotate(90)"
+       id="hint-right-margin" />
+    <rect
+       height="24"
+       width="4"
+       y="-34"
+       x="26"
+       transform="rotate(90)"
+       id="hint-left-margin" />
+  </g>
+  <g
+     opacity="0"
+     fill="none"
+     transform="translate(136 -904.36)"
+     id="shadow-center">
+    <rect
+       id="rect54"
+       height="32"
+       width="32"
+       y="916.36"
+       x="19" />
+    <rect
+       id="rect56"
+       height="32"
+       width="32"
+       y="916.36"
+       x="19" />
+  </g>
+  <use
+     xlink:href="#topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(-1,0,0,1,100,0)"
+     id="topright" />
+  <use
+     xlink:href="#topleft"
+     height="100%"
+     width="100%"
+     transform="rotate(-90,50,28)"
+     id="bottomleft" />
+  <use
+     xlink:href="#topleft"
+     height="100%"
+     width="100%"
+     transform="rotate(180,50,28)"
+     id="bottomright" />
+  <g
+     transform="translate(136,-904.36)"
+     id="shadow-top">
+    <rect
+       id="rect62"
+       opacity="0"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       height="32"
+       width="6"
+       y="-51"
+       x="-916.36"
+       transform="matrix(0,-1,-1,0,0,0)"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.01"
+       id="rect64"
+       stroke-width="1.732"
+       opacity=".15"
+       fill="url(#linearGradient948)"
+       height="32"
+       width="18"
+       y="-51"
+       x="-910.36"
+       transform="matrix(0,-1,-1,0,0,0)" />
+  </g>
+  <g
+     transform="translate(136,-904.36)"
+     id="shadow-topleft">
+    <g
+       id="g69"
+       fill-rule="evenodd">
+      <path
+         style="opacity:0.01"
+         id="path67"
+         stroke-width="2"
+         opacity=".15"
+         fill="url(#radialGradient1259)"
+         d="m-5-12v24h18c0-3.324 2.676-6 6-6v-18z"
+         transform="translate(0,904.36)" />
+    </g>
+    <path
+       id="path71"
+       opacity="0"
+       fill="#1a1a1a"
+       color="#eff0f1"
+       d="m19 6c-3.324 0-6 2.676-6 6h6v-5z"
+       transform="translate(0,904.36)" />
+  </g>
+  <use
+     xlink:href="#shadow-topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(-1 0 0 1 342 3.8965e-7)"
+     id="shadow-topright" />
+  <use
+     xlink:href="#shadow-top"
+     height="100%"
+     width="100%"
+     transform="rotate(180,171,28)"
+     id="shadow-bottom" />
+  <use
+     xlink:href="#shadow-topleft"
+     height="100%"
+     width="100%"
+     transform="rotate(180 171 28)"
+     id="shadow-bottomright" />
+  <use
+     xlink:href="#shadow-topleft"
+     height="100%"
+     width="100%"
+     transform="matrix(1 0 0 -1 0 56)"
+     id="shadow-bottomleft" />
+  <use
+     xlink:href="#shadow-top"
+     height="100%"
+     width="100%"
+     transform="rotate(-90 171 28)"
+     id="shadow-left" />
+  <use
+     xlink:href="#shadow-top"
+     height="100%"
+     width="100%"
+     transform="matrix(0 -1 -1 0 199 199)"
+     id="shadow-right" />
+  <g
+     id="g84"
+     fill="#f0f">
+    <rect
+       stroke-width="1.4142"
+       height="24"
+       width="4"
+       y="-211"
+       x="26"
+       transform="rotate(90)"
+       id="shadow-hint-right-margin" />
+    <rect
+       stroke-width="1.4142"
+       height="24"
+       width="4"
+       y="-155"
+       x="26"
+       transform="rotate(90)"
+       id="shadow-hint-left-margin" />
+    <rect
+       stroke-width="1.4142"
+       height="24"
+       width="4"
+       y="-12"
+       x="169"
+       id="shadow-hint-top-margin" />
+    <rect
+       stroke-width="1.4142"
+       height="24"
+       width="4"
+       y="44"
+       x="169"
+       id="shadow-hint-bottom-margin" />
+  </g>
+</svg>

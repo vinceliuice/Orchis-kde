@@ -1,0 +1,17 @@
+<svg id="svg" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight{ color:#5294e2; }</style>
+ </defs>
+ <g id="22-22-manjaro-settings-manager">
+  <rect width="22" height="22" fill-opacity="0"/>
+  <path class="ColorScheme-Text" d="m3 3v16h3.7096l-0.03368-12.408h6.6615v-3.5917zm12.268 0v16h3.732v-16zm-6.611 5.657v10.343h4.6805v-10.343z" fill="currentColor"/>
+ </g>
+ <g id="manjaro-settings-manager" transform="translate(-4,-39)">
+  <path d="m4 4v24h7v-17h8v-7zm17 0v24h7v-24zm-8 9v15h6v-15z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect y="4.4409e-16" width="32" height="32" ry=".64" fill-opacity="0"/>
+ </g>
+ <g id="16-16-manjaro-settings-manager" transform="translate(-299 -510.36)">
+  <rect x="303" y="537.36" width="16" height="16" fill="none"/>
+  <path class="ColorScheme-Text" d="m305 539.36v12h2.7822l-0.0253-9.3062h4.9961v-2.6938zm9.201 0v12h2.799v-12zm-4.9583 4.2427v7.7573h3.5104v-7.7573z" fill="currentColor"/>
+ </g>
+</svg>

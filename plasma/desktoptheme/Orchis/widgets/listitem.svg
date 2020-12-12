@@ -1,0 +1,87 @@
+<svg width="200" height="200" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3281ea;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3281ea;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3281ea;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3281ea;
+      }</style>
+ </defs>
+ <rect id="hint-tile-center" x="10" y="48" width="2" height="2" rx="0" ry="2" fill="#4e9a06" stroke-width=".97329"/>
+ <rect id="pressed-hint-top-margin" x="45" y="59" width="2" height="6" fill="#4e9a06"/>
+ <rect id="pressed-hint-bottom-margin" x="45" y="80" width="2" height="6" fill="#4e9a06"/>
+ <rect id="pressed-hint-left-margin" x="34" y="73" width="4" height="2" fill="#4e9a06"/>
+ <rect id="pressed-hint-right-margin" x="53" y="73" width="4" height="2" fill="#4e9a06"/>
+ <rect id="normal-hint-left-margin" x="37" y="115" width="4" height="2" fill="#4e9a06"/>
+ <rect id="normal-hint-top-margin" x="48" y="101" width="2" height="6" fill="#4e9a06"/>
+ <rect id="normal-hint-bottom-margin" x="49" y="124" width="2" height="6" fill="#4e9a06"/>
+ <rect id="normal-hint-right-margin" x="58" y="115" width="4" height="2" fill="#4e9a06"/>
+ <g id="separator" transform="translate(31,53)" opacity="0">
+  <rect class="ColorScheme-ViewBackground" transform="scale(1,-1)" x="63" y="-49" width="40" height="1" color="#fcfcfc" opacity=".2"/>
+  <rect class="ColorScheme-ViewText" transform="scale(1,-1)" x="63" y="-49" width="40" height="1" color="#31363b" opacity="0"/>
+ </g>
+ <path id="normal-center" class="ColorScheme-ViewBackground" d="m44 110v11h11v-11z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-right" class="ColorScheme-ViewBackground" d="m55 110v11h2c6.68e-4 -0.0183 0-0.0344 0-0.0529v-10.894c0-0.0185 6.68e-4 -0.0345 0-0.0529h-2z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-top" class="ColorScheme-ViewBackground" d="m44 108v2h11v-2c-0.0041-6.7e-4 0.0042 0 1e-6 0h-10.988c-4e-3 0-8e-3 -6.7e-4 -0.0119 0z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-left" class="ColorScheme-ViewBackground" d="m42 110c-6.7e-4 0.0183 0 0.0344 0 0.0529v10.894c0 0.0185-6.7e-4 0.0345 0 0.0529h2v-11h-2z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-bottom" class="ColorScheme-ViewBackground" d="m44 121v2h11v-1.9997z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-topleft" class="ColorScheme-ViewBackground" d="m42 108v2h1.9998v-2c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-topright" class="ColorScheme-ViewBackground" d="m55 108v1.9997h1.9998v-1.9997c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-bottomright" class="ColorScheme-ViewBackground" d="m55 121v1.9997h1.9998v-1.9997c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" color="#fcfcfc" opacity=".01"/>
+ <path id="normal-bottomleft" class="ColorScheme-ViewBackground" d="m42 121v1.9997h1.9998v-1.9997c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" color="#fcfcfc" opacity=".01"/>
+ <path id="pressed-center" class="ColorScheme-ViewFocus" d="m40 67v11h11v-11z" color="#3281ea" opacity=".06"/>
+ <path id="pressed-right" class="ColorScheme-ViewFocus" d="m51 67v11h2c6.68e-4 -0.0184 0-0.0344 0-0.0529v-10.894c0-0.0185 6.68e-4 -0.0345 0-0.0529h-2z" color="#3281ea" opacity=".06"/>
+ <path id="pressed-top" class="ColorScheme-ViewFocus" d="m40 65v2h10.999v-2c-0.0041-6.7e-4 0.0045 0 3.01e-4 0h-10.987c-4e-3 0-8e-3 -6.7e-4 -0.0119 0z" color="#3281ea" opacity=".06" stroke-width=".99993"/>
+ <path id="pressed-left" class="ColorScheme-ViewFocus" d="m38 67c-6.7e-4 0.0184 0 0.0344 0 0.0529v10.894c0 0.0185-6.7e-4 0.0345 0 0.0529h2v-11h-2z" color="#3281ea" opacity=".06"/>
+ <path id="pressed-bottom" class="ColorScheme-ViewFocus" d="m40 78v2h11v-2z" color="#3281ea" opacity=".06"/>
+ <path id="pressed-topleft" d="m40 65c-1.108 0-2 0.892-2 2h2v-2z" color="#3281ea" opacity=".06"/>
+ <path id="section-center" class="ColorScheme-ViewBackground" d="m42 145v11h11v-11z" color="#fcfcfc" opacity="0"/>
+ <path id="section-right" class="ColorScheme-ViewBackground" d="m53 145v11h2c6.68e-4 -0.018 0-0.034 0-0.053v-10.894c0-0.019 6.68e-4 -0.034 0-0.053z" color="#fcfcfc" opacity="0"/>
+ <path id="section-top" class="ColorScheme-ViewBackground" d="m42 143v2h11v-2c-0.0041-7e-4 0.0042 0 1e-6 0h-10.988c-4e-3 0-8e-3 -7e-4 -0.0119 0z" color="#fcfcfc" opacity="0"/>
+ <path id="section-left" class="ColorScheme-ViewBackground" d="m40 145c-6.7e-4 0.018 0 0.034 0 0.053v10.894c0 0.019-6.7e-4 0.034 0 0.053h2v-11z" color="#fcfcfc" opacity="0"/>
+ <path id="section-bottom" class="ColorScheme-ViewBackground" d="m42 156v2h11v-1.9997z" color="#fcfcfc" opacity="0"/>
+ <path id="section-topleft" class="ColorScheme-ViewBackground" d="m40 143v2h1.9998v-2c-7.46e-4 -7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-7e-4 -0.0022 0z" color="#fcfcfc" opacity="0"/>
+ <path id="section-topright" class="ColorScheme-ViewBackground" d="m53 143v1.9997h1.9998v-1.9997c-7.46e-4 -7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-7e-4 -0.0022 0z" color="#fcfcfc" opacity="0"/>
+ <path id="section-bottomright" class="ColorScheme-ViewBackground" d="m53 156v1.9997h1.9998v-1.9997c-7.46e-4 -7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-7e-4 -0.0022 0z" color="#fcfcfc" opacity="0"/>
+ <path id="section-bottomleft" class="ColorScheme-ViewBackground" d="m40 156v1.9997h1.9998v-1.9997c-7.46e-4 -7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-7e-4 -0.0022 0z" color="#fcfcfc" opacity="0"/>
+ <rect id="section-hint-top-margin" x="48" y="138" width="2" height="6" fill="#4e9a06"/>
+ <rect id="section-hint-left-margin" x="30" y="152" width="4" height="2" fill="#4e9a06"/>
+ <rect id="section-hint-right-margin" x="54.965" y="152" width="4" height="2" fill="#4e9a06"/>
+ <rect id="section-hint-bottom-margin" x="49" y="157" width="2" height="6" fill="#4e9a06"/>
+ <path id="pressed-topright" d="m51 65v2h2c0-1.108-0.892-2-2-2z" color="#3281ea" opacity=".06"/>
+ <path id="pressed-bottomleft" d="m38 78c0 1.108 0.892 2 2 2v-2h-2z" color="#3281ea" opacity=".06"/>
+ <path id="pressed-bottomright" d="m51 78v2c1.108 0 2-0.892 2-2h-2z" color="#3281ea" opacity=".06"/>
+ <path id="hover-center" class="ColorScheme-ViewFocus" d="m75 67v11h11v-11z" color="#3281ea" opacity=".03"/>
+ <path id="hover-right" class="ColorScheme-ViewFocus" d="m86 67v11h2c6.69e-4 -0.0189 0-0.034 0-0.0529v-10.894c0-0.0189 6.69e-4 -0.034 0-0.0529h-2z" color="#3281ea" opacity=".03"/>
+ <path id="hover-top" class="ColorScheme-ViewFocus" d="m75 65v2h10.999v-2c-0.0042-6.8e-4 0.0045 0 2.99e-4 0h-10.987c-0.0042 0-0.0079-6.8e-4 -0.01172 0z" color="#3281ea" opacity=".03" stroke-width=".99993"/>
+ <path id="hover-left" class="ColorScheme-ViewFocus" d="m73 67c-6.69e-4 0.0189 0 0.034 0 0.0529v10.894c0 0.0189-6.69e-4 0.034 0 0.0529h2v-11h-2z" color="#3281ea" opacity=".03"/>
+ <path id="hover-bottom" class="ColorScheme-ViewFocus" d="m75 78v2h11v-2z" color="#3281ea" opacity=".03"/>
+ <path id="hover-topleft" d="m75 65c-1.108 0-2 0.892-2 2h2v-2z" color="#3281ea" opacity=".03"/>
+ <path id="hover-topright" d="m86 65v2h2c0-1.108-0.892-2-2-2z" color="#3281ea" opacity=".03"/>
+ <path id="hover-bottomleft" d="m73 78c0 1.108 0.892 2 2 2v-2h-2z" color="#3281ea" opacity=".03"/>
+ <path id="hover-bottomright" d="m86 78v2c1.108 0 2-0.892 2-2h-2z" color="#3281ea" opacity=".03"/>
+</svg>

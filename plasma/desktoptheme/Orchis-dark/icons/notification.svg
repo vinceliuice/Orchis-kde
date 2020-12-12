@@ -1,0 +1,36 @@
+<svg id="svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g id="notification-active">
+  <rect y="40" width="22" height="22" opacity="0"/>
+  <path class="ColorScheme-Highlight" d="m11 43c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8c4.4183 0 8-3.5817 8-8s-3.5817-8-8-8z" color="#5294e2" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m10 47v6h2v-6zm1 7c-0.45315 0-1 0.51843-1 0.98047 0 0.46204 0.54685 1.0195 1 1.0195s1-0.55749 1-1.0195c0-0.46204-0.54685-0.98047-1-0.98047z" color="#dedede" fill="#fff" fill-opacity=".94118"/>
+ </g>
+ <g fill="currentColor">
+  <path id="expander-bottom" class="ColorScheme-Text" d="m-18 23 2-2 2 2z"/>
+  <path id="expander-top" class="ColorScheme-Text" d="m-18 17 2 2 2-2z"/>
+  <path id="expander-right" class="ColorScheme-Text" d="m-13 18-2 2 2 2z"/>
+  <path id="expander-left" class="ColorScheme-Text" d="m-19 18 2 2-2 2z"/>
+ </g>
+ <g id="notification-inactive">
+  <rect class="ColorScheme-Text" width="22" height="22" fill-opacity="0"/>
+  <path class="ColorScheme-Text" d="m11 3a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6zm-1 1v6h2v-6zm1 7c-0.45315 0-1 0.51843-1 0.98047 0 0.46204 0.54685 1.0195 1 1.0195s1-0.55749 1-1.0195c0-0.46204-0.54685-0.98047-1-0.98047z" color="#dedede" fill="currentColor"/>
+ </g>
+ <g id="notification-disabled">
+  <rect y="-40" width="22" height="22" opacity="0"/>
+  <path class="ColorScheme-Text" d="m11-37a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6zm-1 1v6h2v-6zm1 7c-0.45315 0-1 0.51843-1 0.98047 0 0.46204 0.54685 1.0195 1 1.0195s1-0.55749 1-1.0195c0-0.46204-0.54685-0.98047-1-0.98047z" color="#dedede" fill="currentColor" opacity=".3"/>
+ </g>
+ <g id="notification-empty">
+  <rect x="40" y="-40" width="22" height="22" opacity="0"/>
+  <path class="ColorScheme-Text" d="m51-37a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" color="#dedede" fill="currentColor"/>
+ </g>
+ <g id="notification-progress-active">
+  <rect x="40" width="22" height="22" opacity="0"/>
+  <path class="ColorScheme-Highlight" d="m51 3c-4.4183 0-8 3.5817-8 8 0 4.4183 3.5817 8 8 8 4.4183 0 8-3.5817 8-8 0-4.4183-3.5817-8-8-8z" color="#5294e2" fill="currentColor"/>
+ </g>
+ <g id="notification-progress-inactive">
+  <rect x="40" y="40" width="22" height="22" opacity="0"/>
+  <path class="ColorScheme-Text" d="m51 45c-3.3137 0-6 2.6863-6 6s2.6863 6 6 6 6-2.6863 6-6-2.6863-6-6-6z" color="#dedede" fill="currentColor" opacity=".3"/>
+ </g>
+</svg>

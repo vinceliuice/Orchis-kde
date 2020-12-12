@@ -1,0 +1,119 @@
+<svg width="121" height="56" version="1.1" viewBox="0 0 121 56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3281ea;
+        stop-color:#3281ea;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3281ea;
+        stop-color:#3281ea;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3281ea;
+        stop-color:#3281ea;
+      }</style>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient948" x1="-912.36" x2="-905.36" y1="-35" y2="-35" gradientTransform="matrix(3,0,0,1,1820.7,0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="radialGradient1259" cx="19" cy="12" r="6" gradientTransform="matrix(1.3182e-4,-3.5001,3.4999,1.3185e-4,-23.002,78.501)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="linearGradient958" x1="55" x2="62" y1="932.36" y2="932.36" gradientTransform="matrix(3,0,0,1,-114,0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="linearGradient956" x1="952.36" x2="959.36" y1="-35" y2="-35" gradientTransform="matrix(3,0,0,1,-1908.7,0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="linearGradient1141" x1="-19" x2="2" y1="932.36" y2="932.36" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g id="topleft" transform="translate(15 -904.36)">
+  <g fill-rule="evenodd">
+   <path transform="translate(0,904.36)" d="m-5-12v24h18c0-3.324 2.676-6 6-6v-18z" fill="url(#radialGradient1259)" opacity=".1" stroke-width="2"/>
+  </g>
+  <path transform="translate(0,904.36)" d="m19 6c-3.324 0-6 2.676-6 6h6v-5z" color="#eff0f1" fill="#fff" opacity=".6"/>
+ </g>
+ <rect id="hint-tile-center" y="-1.7648e-5" width="5" height="5" fill="#f60"/>
+ <g id="top" transform="translate(15 -904.36)">
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="6" height="32" color="#eff0f1" fill="#fff" opacity=".6"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-910.36" y="-51" width="18" height="32" fill="url(#linearGradient948)" opacity=".1" stroke-width="1.732"/>
+ </g>
+ <g id="bottom" transform="translate(15 -904.36)">
+  <rect class="ColorScheme-Background" transform="rotate(90)" x="948.36" y="-51" width="6" height="32" color="#eff0f1" fill="#fff" opacity=".6"/>
+  <rect transform="rotate(90)" x="954.36" y="-51" width="18" height="32" fill="url(#linearGradient956)" opacity=".1" stroke-width="1.732"/>
+ </g>
+ <g id="left" transform="translate(15 -904.36)">
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-19" y="916.36" width="6" height="32" color="#eff0f1" fill="#fff" opacity=".6"/>
+  <rect transform="scale(-1,1)" x="-13" y="916.36" width="18" height="32" fill="url(#linearGradient1141)" opacity=".1" stroke-width="1.732"/>
+ </g>
+ <g id="right" transform="translate(15 -904.36)">
+  <rect class="ColorScheme-Background" x="51" y="916.36" width="6" height="32" color="#eff0f1" fill="#fff" opacity=".6"/>
+  <rect x="57" y="916.36" width="18" height="32" fill="url(#linearGradient958)" opacity=".1" stroke-width="1.732"/>
+ </g>
+ <g id="center" transform="translate(15 -904.36)">
+  <rect x="19" y="916.36" width="32" height="32" fill="none"/>
+  <rect class="ColorScheme-Background" x="19" y="916.36" width="32" height="32" color="#eff0f1" fill="#fff" opacity=".6"/>
+ </g>
+ <g fill="#f0f" stroke-width="1.4142">
+  <rect id="hint-top-margin" x="48" y="-12" width="4" height="24"/>
+  <rect id="hint-bottom-margin" x="48" y="44" width="4" height="24"/>
+  <rect id="hint-right-margin" transform="rotate(90)" x="26" y="-90" width="4" height="24"/>
+  <rect id="hint-left-margin" transform="rotate(90)" x="26" y="-34" width="4" height="24"/>
+ </g>
+ <g id="shadow-center" transform="translate(136 -904.36)" fill="none" opacity="0">
+  <rect x="19" y="916.36" width="32" height="32"/>
+  <rect x="19" y="916.36" width="32" height="32"/>
+ </g>
+ <use id="topright" transform="matrix(-1 0 0 1 100 -3.5156e-7)" width="100%" height="100%" xlink:href="#topleft"/>
+ <use id="bottomleft" transform="rotate(-90 50 28)" width="100%" height="100%" xlink:href="#topleft"/>
+ <use id="bottomright" transform="rotate(180 50 28)" width="100%" height="100%" xlink:href="#topleft"/>
+ <g id="shadow-top" transform="translate(136 -904.36)">
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="6" height="32" color="#eff0f1" fill="#1a1a1a" opacity="0"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-910.36" y="-51" width="18" height="32" fill="url(#linearGradient948)" opacity=".01" stroke-width="1.732"/>
+ </g>
+ <g id="shadow-topleft" transform="translate(136 -904.36)">
+  <g fill-rule="evenodd">
+   <path transform="translate(0,904.36)" d="m-5-12v24h18c0-3.324 2.676-6 6-6v-18z" fill="url(#radialGradient1259)" opacity=".01" stroke-width="2"/>
+  </g>
+  <path transform="translate(0,904.36)" d="m19 6c-3.324 0-6 2.676-6 6h6v-5z" color="#eff0f1" fill="#1a1a1a" opacity="0"/>
+ </g>
+ <use id="shadow-topright" transform="matrix(-1 0 0 1 342 6.4844e-7)" width="100%" height="100%" xlink:href="#shadow-topleft"/>
+ <use id="shadow-bottom" transform="rotate(180 171 28)" width="100%" height="100%" xlink:href="#shadow-top"/>
+ <use id="shadow-bottomright" transform="rotate(180 171 28)" width="100%" height="100%" xlink:href="#shadow-topleft"/>
+ <use id="shadow-bottomleft" transform="matrix(1 0 0 -1 0 56)" width="100%" height="100%" xlink:href="#shadow-topleft"/>
+ <use id="shadow-left" transform="rotate(-90 171 28)" width="100%" height="100%" xlink:href="#shadow-top"/>
+ <use id="shadow-right" transform="matrix(0 -1 -1 0 199 199)" width="100%" height="100%" xlink:href="#shadow-top"/>
+ <g fill="#f0f" stroke-width="1.4142">
+  <rect id="shadow-hint-right-margin" transform="rotate(90)" x="26" y="-211" width="4" height="24"/>
+  <rect id="shadow-hint-left-margin" transform="rotate(90)" x="26" y="-155" width="4" height="24"/>
+  <rect id="shadow-hint-top-margin" x="169" y="-12" width="4" height="24"/>
+  <rect id="shadow-hint-bottom-margin" x="169" y="44" width="4" height="24"/>
+ </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="200" height="200" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(8,0,0,8,12,-24)" fill="#fff">
+  <g transform="translate(-421.71 -525.79)" fill="#fff">
+   <path class="ColorScheme-Text" d="m435.71 528.79-2 2 3 3-3 3 2 2 5-5z" fill="#fff"/>
+  </g>
+ </g>
+ <path class="ColorScheme-Text" d="m68 0c-4.432 0-8 3.568-8 8s3.568 8 8 8 8-3.568 8-8-3.568-8-8-8z" fill="#fff" opacity=".35" stroke-width="8"/>
+ <path class="ColorScheme-Text" d="m84 96c-8.864 0-16 7.136-16 16s7.136 16 16 16 16-7.136 16-16-7.136-16-16-16z" fill="#fff" opacity=".75" stroke-width="8"/>
+ <path class="ColorScheme-Text" d="m48 48c-6.648 0-12 5.352-12 12s5.352 12 12 12 12-5.352 12-12-5.352-12-12-12z" fill="#fff" opacity=".5" stroke-width="8"/>
+</svg>
