@@ -1,5 +1,5 @@
 
-ChromeOS kde is a materia Design theme for KDE Plasma desktop.
+Orchis kde is a materia Design theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
@@ -21,7 +21,7 @@ In this repository you'll find:
 
   Run `kvantummanager` to choose and apply **ChromeOS** theme.
 
-- Install [Tela icon theme](https://github.com/vinceliuice/Tela-icon-theme) for a more consistent and beautiful experience.
+- Install [Tela circle icon theme](https://github.com/vinceliuice/Tela-circle-icon-theme) for a more consistent and beautiful experience.
 
 ## Donate
 
@@ -35,4 +35,5 @@ GNU GPL v3
 
 ## preview
 
-![1](../master/plasma/look-and-feel/com.github.vinceliuice.ChromeOS/contents/previews/fullscreenpreview.jpg)
+![1](plasma/look-and-feel/com.github.vinceliuice.Orchis/contents/previews/fullscreenpreview.jpg)
+![2](plasma/look-and-feel/com.github.vinceliuice.Orchis-dark/contents/previews/fullscreenpreview.jpg)
