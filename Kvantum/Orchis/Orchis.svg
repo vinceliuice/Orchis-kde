@@ -183,7 +183,7 @@
  <rect id="dial" x="25.629" y="745.47" width="45" height="45" rx="22.5" ry="22.5" opacity=".08"/>
  <g id="tabBarFrame-normal-bottom" transform="matrix(0 -1 .66667 0 -510.34 777)">
   <path d="m174 921.5h-4l1.3e-4 -6h3.9999z" opacity="0"/>
-  <path d="m172 921.5h-2l1e-4 -6h2z" fill="#1e1e1e"/>
+  <path d="m172 921.5h-2l1e-4 -6h2z" fill="#1e1e1e" opacity=".15"/>
  </g>
  <use id="tabBarFrame-normal-bottomright" transform="translate(4)" width="100%" height="100%" xlink:href="#tabBarFrame-normal-bottom"/>
  <use id="tabBarFrame-normal-bottomleft" transform="translate(-4)" width="100%" height="100%" xlink:href="#tabBarFrame-normal-bottom"/>
@@ -755,12 +755,6 @@
  <g id="tab-focused-bottom" transform="matrix(.99999 0 0 .11539 138 674.54)">
   <rect x="1" y="-74" width="26" height="26" opacity=".15"/>
  </g>
- <g id="tabBarFrame-toggled-bottom" transform="matrix(0 -1 .66667 0 -491.34 777)">
-  <path d="m174 921.5h-4l1.3e-4 -6h3.9999z" opacity="0"/>
-  <path d="m172 921.5h-2l1e-4 -6h2z" fill="#333"/>
- </g>
- <use id="tabBarFrame-toggled-bottomleft" transform="translate(-4)" width="100%" height="100%" xlink:href="#tabBarFrame-toggled-bottom"/>
- <use id="tabBarFrame-toggled-bottomright" transform="translate(4)" width="100%" height="100%" xlink:href="#tabBarFrame-toggled-bottom"/>
  <g id="tabframe-normal-top-leftjunct" transform="translate(-85,-270)" fill-rule="evenodd">
   <path d="m269 865h-4v4h4z" fill-opacity="0"/>
   <path d="m265.5 865h-0.5v2h0.5z" opacity=".15"/>
