@@ -33,8 +33,8 @@
   <rect x="375" y="87.5" width="25" height="25" opacity="0"/>
   <path d="m396.25 86.25-17.5 17.5h17.5z" opacity=".001"/>
  </g>
- <g id="radio-checked-normal" transform="translate(-.5 20)">
-  <path transform="translate(0 -20)" d="m105.5 220c-4.4064 0-8 3.5936-8 8 5e-6 4.4064 3.5936 8 8 8s8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6c3e-6 -3.3257 2.6743-6 6-6zm0 3a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z" fill="#4285f4"/>
+ <g id="radio-checked-normal" transform="translate(38.854 30.249)">
+  <path transform="translate(0,-20)" d="m105.5 220c-4.4064 0-8 3.5936-8 8 5e-6 4.4064 3.5936 8 8 8s8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6c3e-6 -3.3257 2.6743-6 6-6zm0 3a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z" fill="#81c995"/>
  </g>
  <g id="splitter-grip-normal" transform="matrix(1.1429 0 0 1 -38.286 -279.01)" opacity=".001">
   <rect x="275" y="1039" width="7" height="32" opacity="0"/>
@@ -129,9 +129,8 @@
   <rect x="135" y="428.03" width="16" height="16" opacity=".001"/>
   <path d="m140 432.03c-0.554 0-1 0.446-1 1s0.446 1 1 1h6c0.554 0 1-0.446 1-1s-0.446-1-1-1h-6zm0 3c-0.554 0-1 0.446-1 1s0.446 1 1 1h6c0.554 0 1-0.446 1-1s-0.446-1-1-1h-6zm0 3c-0.554 0-1 0.446-1 1s0.446 1 1 1h6c0.554 0 1-0.446 1-1s-0.446-1-1-1h-6z" fill="#eaeaea"/>
  </g>
- <path id="menu-checkbox-normal" d="m196.87 265c-1.5708 0-2.8672-1.2964-2.8672-2.8672v-10.266c0-1.5708 1.2963-2.8672 2.8672-2.8672h10.266c1.5708 0 2.8672 1.2964 2.8672 2.8672v10.266c0 1.5708-1.2964 2.8672-2.8672 2.8672zm0-2h10.266c0.49743 0 0.86719-0.36975 0.86719-0.86719v-10.266c0-0.49742-0.36977-0.86719-0.86719-0.86719h-10.266c-0.49744 0-0.86719 0.36976-0.86719 0.86719v10.266c0 0.49745 0.36974 0.86719 0.86719 0.86719z" fill="#fff" fill-opacity=".4"/>
- <g id="menu-radio-normal" transform="translate(2.5,49)">
-  <path d="m30.5 200c-4.4064 0-8 3.5936-8 8s3.5936 8 8 8 8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6 2.6743-6 6-6z" fill="#fff" fill-opacity=".4"/>
+ <g id="menu-radio-normal" transform="translate(3.8851 30.877)" fill="#ffffff" fill-opacity=".99482">
+  <path d="m30.5 200c-4.4064 0-8 3.5936-8 8s3.5936 8 8 8 8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6 2.6743-6 6-6z" fill="#ffffff" fill-opacity=".99482" opacity=".5"/>
  </g>
  <g id="progress-normal-lefttyry" transform="translate(-8 -9)">
   <rect x="26" y="162" width="8" height="8" opacity=".001"/>
@@ -210,16 +209,6 @@
  <path id="itemview-focused-topleft" d="m33 930.26v4h-4s0-4 4-4z" fill="#fff" opacity=".07"/>
  <path id="itemview-focused-bottomleft" d="m29 942.26h4v4c-4 0-4-4-4-4z" fill="#fff" opacity=".07"/>
  <path id="toolbar-handle" d="m245 107a5 5 0 0 1-10 0 5 5 0 1 1 10 0z" fill="#fff" opacity=".16"/>
- <path id="checkbox-tristate-normal" d="m349 220c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm2.5996 7h6.8008c0.8864 0 1.5996 0.169 1.5996 1s-0.71321 1-1.5996 1h-6.8008c-0.8864 0-1.5996-0.169-1.5996-1s0.71321-1 1.5996-1z" fill="#4285f4"/>
- <g id="checkbox-checked-normal" transform="translate(-.5 20)">
-  <path transform="translate(.5 -7)" d="m274 207c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm10.051 3.9902a1.0001 1.0001 0 0 1 0.67578 1.6953l-5.6191 5.957-3.7168-2.8496a1.0001 1.0001 0 1 1 1.2188-1.5859l2.2832 1.75 4.3809-4.6426a1.0001 1.0001 0 0 1 0.77734-0.32422z" fill="#4285f4"/>
- </g>
- <g id="checkbox-tristate-focused" transform="translate(39.5,22.5)">
-  <path transform="translate(-40,-9.5)" d="m389.5 207c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm2.5996 7h6.8008c0.8864 0 1.5996 0.169 1.5996 1s-0.71321 1-1.5996 1h-6.8008c-0.8864 0-1.5996-0.169-1.5996-1s0.71321-1 1.5996-1z" fill="#4285f4"/>
- </g>
- <g id="checkbox-checked-focused" transform="translate(35.5,20)">
-  <path transform="translate(.5 -7)" d="m274 207c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm10.051 3.9902a1.0001 1.0001 0 0 1 0.67578 1.6953l-5.6191 5.957-3.7168-2.8496a1.0001 1.0001 0 1 1 1.2188-1.5859l2.2832 1.75 4.3809-4.6426a1.0001 1.0001 0 0 1 0.77734-0.32422z" fill="#4285f4"/>
- </g>
  <path id="menubaritem-focused-left" d="m116 946v-17.999h-6l3.6e-4 18z" fill="#fff" opacity=".1" stroke-width="1.007"/>
  <path id="menubaritem-focused-topleft" d="m116 921c-3.2999-1e-4 -6 2.7-6 5.9999h6z" fill="#fff" opacity=".1" stroke-width="1.04"/>
  <path id="menubaritem-focused" d="m117 928v18h18v-18z" fill="#fff" opacity=".1" stroke-width=".97498"/>
@@ -250,14 +239,12 @@
  <path id="focus-bottomright" d="m199.09 111.76h-1.9042v2c1.9042 0 1.9042-2 1.9042-2z" fill="#fff" opacity=".19"/>
  <path id="focus-topleft" d="m185.77 101.76h1.9042v-2c-1.9042 0-1.9042 2-1.9042 2z" fill="#fff" opacity=".19"/>
  <path id="focus-topright" d="m199.09 101.76h-1.9042v-2c1.9042 0 1.9042 2 1.9042 2z" fill="#fff" opacity=".19"/>
- <g id="radio-normal" transform="translate(1.3811 20.067)">
-  <path d="m30.5 200c-4.4064 0-8 3.5936-8 8s3.5936 8 8 8 8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6 2.6743-6 6-6z" fill="#fff" opacity=".4"/>
+ <g id="radio-normal" transform="translate(40.735 30.316)">
+  <path d="m30.5 200c-4.4064 0-8 3.5936-8 8s3.5936 8 8 8 8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6 2.6743-6 6-6z" fill="#ffffff" opacity=".5"/>
  </g>
- <g id="radio-focused" transform="translate(39.381 20.067)">
-  <path transform="translate(-38)" d="m68.5 200c-4.4064 0-8 3.5936-8 8s3.5936 8 8 8 8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6 2.6743-6 6-6z" fill="#fff" opacity=".4"/>
+ <g id="radio-focused" transform="translate(78.735 30.316)">
+  <path transform="translate(-38)" d="m68.5 200c-4.4064 0-8 3.5936-8 8s3.5936 8 8 8 8-3.5936 8-8-3.5936-8-8-8zm0 2c3.3257 0 6 2.6743 6 6s-2.6743 6-6 6-6-2.6743-6-6 2.6743-6 6-6z" fill="#ffffff" opacity=".5"/>
  </g>
- <path id="checkbox-normal" d="m195.75 236.07c-1.5708 0-2.8672-1.2964-2.8672-2.8672v-10.266c0-1.5708 1.2963-2.8672 2.8672-2.8672h10.266c1.5708 0 2.8672 1.2964 2.8672 2.8672v10.266c0 1.5708-1.2964 2.8672-2.8672 2.8672zm0-2h10.266c0.49743 0 0.86719-0.36975 0.86719-0.86719v-10.266c0-0.49742-0.36977-0.86719-0.86719-0.86719h-10.266c-0.49744 0-0.86719 0.36976-0.86719 0.86719v10.266c0 0.49745 0.36974 0.86719 0.86719 0.86719z" fill="#fff" opacity=".4"/>
- <path id="checkbox-focused" d="m233.75 236.07c-1.5708 0-2.8672-1.2964-2.8672-2.8672v-10.266c0-1.5708 1.2963-2.8672 2.8672-2.8672h10.266c1.5708 0 2.8672 1.2964 2.8672 2.8672v10.266c0 1.5708-1.2964 2.8672-2.8672 2.8672zm0-2h10.266c0.49743 0 0.86719-0.36975 0.86719-0.86719v-10.266c0-0.49742-0.36977-0.86719-0.86719-0.86719h-10.266c-0.49744 0-0.86719 0.36976-0.86719 0.86719v10.266c0 0.49745 0.36974 0.86719 0.86719 0.86719z" fill="#fff" opacity=".4"/>
  <g id="tarrow-right-normal" transform="translate(-162.97 -247.58)">
   <rect x="186" y="529" width="8" height="8" opacity=".001"/>
   <path transform="matrix(.72169 0 0 1 52.664 .42535)" d="m194.46 532.57-6.9282 4v-8l3.4641 2z" fill="#dfdfdf"/>
@@ -1538,4 +1525,11 @@
  </g>
  <use id="menu-shadow-topright" transform="matrix(-1,0,0,1,112,0)" width="100%" height="100%" xlink:href="#menu-shadow-topleft"/>
  <use id="menu-shadow-bottomright" transform="matrix(-1,0,0,1,112,0)" width="100%" height="100%" xlink:href="#menu-shadow-bottomleft"/>
+ <path id="checkbox-checked-normal" d="m300.79 230.3a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm4.5996 3.5898 1.4102 1.4102-8 8-4-4 1.4102-1.4102 2.5898 2.5898z" fill="#81c995" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <path id="checkbox-tristate-normal" d="m375.06 230.09a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-4 7h8v2h-8z" fill="#81c995" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <path id="checkbox-normal" d="m223.9 230.53a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" fill="#ffffff" opacity=".5"/>
+ <path id="checkbox-focused" d="m260.94 229.88a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" fill="#ffffff" opacity=".5"/>
+ <path id="menu-checkbox-normal" d="m193.42 230.26a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" fill="#ffffff" opacity=".5"/>
+ <path id="checkbox-checked-focused" d="m335.52 230.3a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm4.5996 3.5898 1.4102 1.4102-8 8-4-4 1.4102-1.4102 2.5898 2.5898z" fill="#81c995" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <path id="checkbox-tristate-focused" d="m413.08 230.09a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-4 7h8v2h-8z" fill="#81c995" stroke-width="0" style="paint-order:stroke fill markers"/>
 </svg>
