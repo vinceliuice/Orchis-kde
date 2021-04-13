@@ -107,15 +107,15 @@
  <g id="progress-pattern-disabled-right" transform="matrix(1.5 0 0 1 71 17)">
   <rect x="34" y="162" width="8" height="8" opacity=".12"/>
  </g>
- <path id="menubaritem-focused-left" d="m116 946v-17.999h-6l3.6e-4 18z" fill="#fff" opacity=".1" stroke-width="1.007"/>
- <path id="menubaritem-focused-topleft" d="m116 921c-3.2999-1e-4 -6 2.7-6 5.9999h6z" fill="#fff" opacity=".1" stroke-width="1.04"/>
- <path id="menubaritem-focused" d="m117 928v18h18v-18z" fill="#fff" opacity=".1" stroke-width=".97498"/>
- <path id="menubaritem-focused-right" d="m136 946v-17.999h6l-3.7e-4 18z" fill="#fff" opacity=".1" stroke-width="1.007"/>
- <path id="menubaritem-focused-topright" d="m136 921c3.2999-1e-4 6 2.7 6 5.9999h-6z" fill="#fff" opacity=".1" stroke-width="1.04"/>
- <path id="menubaritem-focused-top" d="m117 927h17.999v-6h-18z" fill="#fff" opacity=".1" stroke-width="1.007"/>
- <path id="menubaritem-focused-bottom" d="m135 947h-17.999v6h18z" fill="#fff" opacity=".1" stroke-width="1.007"/>
- <path id="menubaritem-focused-bottomleft" d="m116 953c-3.2999 0-5.9999-2.7-5.9999-5.9999l5.9999-1e-4z" fill="#fff" opacity=".1" stroke-width="1.04"/>
- <path id="menubaritem-focused-bottomright" d="m136 953c3.2999 0 5.9999-2.7 5.9999-5.9999l-5.9999-1e-4z" fill="#fff" opacity=".1" stroke-width="1.04"/>
+ <path id="menubaritem-focused-left" d="m116 946v-17.999h-6l3.6e-4 18z" fill="#000000" opacity=".1" stroke-width="1.007"/>
+ <path id="menubaritem-focused-topleft" d="m116 921c-3.2999-1e-4 -6 2.7-6 5.9999h6z" fill="#000000" opacity=".1" stroke-width="1.04"/>
+ <path id="menubaritem-focused" d="m117 928v18h18v-18z" fill="#000000" opacity=".1" stroke-width=".97498"/>
+ <path id="menubaritem-focused-right" d="m136 946v-17.999h6l-3.7e-4 18z" fill="#000000" opacity=".1" stroke-width="1.007"/>
+ <path id="menubaritem-focused-topright" d="m136 921c3.2999-1e-4 6 2.7 6 5.9999h-6z" fill="#000000" opacity=".1" stroke-width="1.04"/>
+ <path id="menubaritem-focused-top" d="m117 927h17.999v-6h-18z" fill="#000000" opacity=".1" stroke-width="1.007"/>
+ <path id="menubaritem-focused-bottom" d="m135 947h-17.999v6h18z" fill="#000000" opacity=".1" stroke-width="1.007"/>
+ <path id="menubaritem-focused-bottomleft" d="m116 953c-3.2999 0-5.9999-2.7-5.9999-5.9999l5.9999-1e-4z" fill="#000000" opacity=".1" stroke-width="1.04"/>
+ <path id="menubaritem-focused-bottomright" d="m136 953c3.2999 0 5.9999-2.7 5.9999-5.9999l-5.9999-1e-4z" fill="#000000" opacity=".1" stroke-width="1.04"/>
  <path id="titlebar-normal" d="m223.93 399.69v32h32v-32z" fill="#fff"/>
  <use id="titlebar-focused" transform="translate(1.4175e-6 -45)" width="100%" height="100%" fill="#1f1f1f" opacity=".8" xlink:href="#titlebar-normal"/>
  <g id="slider-normal-right" transform="translate(295.49 133.02)">
@@ -675,24 +675,24 @@
   <rect x="18" y="-35" width="16" height="1" opacity=".15" style="paint-order:markers stroke fill"/>
  </g>
  <use id="tbutton-toggled-right" transform="translate(19)" width="100%" height="100%" xlink:href="#tbutton-toggled-left"/>
- <path id="menubaritem-pressed-left" d="m188 946v-17.999h-6l3.6e-4 18z" fill="#fff" opacity=".2" stroke-width="1.007"/>
- <path id="menubaritem-pressed-topleft" d="m188 921c-3.2999-8e-5 -6 2.7-6 5.9999h6z" fill="#fff" opacity=".2" stroke-width="1.04"/>
- <path id="menubaritem-pressed" d="m189 928v18h18v-18z" fill="#fff" opacity=".2" stroke-width=".97497"/>
- <path id="menubaritem-pressed-right" d="m208 946v-17.999h6l-3.7e-4 18z" fill="#fff" opacity=".2" stroke-width="1.007"/>
- <path id="menubaritem-pressed-topright" d="m208 921c3.2999-8e-5 6 2.7 6 5.9999h-6z" fill="#fff" opacity=".2" stroke-width="1.04"/>
- <path id="menubaritem-pressed-top" d="m189 927h17.999v-6h-18z" fill="#fff" opacity=".2" stroke-width="1.007"/>
- <path id="menubaritem-pressed-bottom" d="m207 947h-17.999v6h18z" fill="#fff" opacity=".2" stroke-width="1.007"/>
- <path id="menubaritem-pressed-bottomleft" d="m188 953c-3.2999 0-5.9999-2.7-5.9999-5.9999l5.9999-1.1e-4z" fill="#fff" opacity=".2" stroke-width="1.04"/>
- <path id="menubaritem-pressed-bottomright" d="m208 953c3.2999 0 5.9999-2.7 5.9999-5.9999l-5.9999-1.1e-4z" fill="#fff" opacity=".2" stroke-width="1.04"/>
- <path id="menubaritem-toggled-left" d="m152 946v-17.999h-6l3.6e-4 18z" fill="#fff" opacity=".15" stroke-width="1.007"/>
- <path id="menubaritem-toggled-topleft" d="m152 921c-3.2999-7e-5 -6 2.7-6 5.9999h6z" fill="#fff" opacity=".15" stroke-width="1.04"/>
- <path id="menubaritem-toggled" d="m153 928v18h18v-18z" fill="#fff" opacity=".15" stroke-width=".97497"/>
- <path id="menubaritem-toggled-right" d="m172 946v-17.999h6l-3.7e-4 18z" fill="#fff" opacity=".15" stroke-width="1.007"/>
- <path id="menubaritem-toggled-topright" d="m172 921c3.2999-7e-5 6 2.7 6 5.9999h-6z" fill="#fff" opacity=".15" stroke-width="1.04"/>
- <path id="menubaritem-toggled-top" d="m153 927h17.999v-6h-18z" fill="#fff" opacity=".15" stroke-width="1.007"/>
- <path id="menubaritem-toggled-bottom" d="m171 947h-17.999v6h18z" fill="#fff" opacity=".15" stroke-width="1.007"/>
- <path id="menubaritem-toggled-bottomleft" d="m152 953c-3.2999 0-5.9999-2.7-5.9999-5.9999l5.9999-1.2e-4z" fill="#fff" opacity=".15" stroke-width="1.04"/>
- <path id="menubaritem-toggled-bottomright" d="m172 953c3.2999 0 5.9999-2.7 5.9999-5.9999l-5.9999-1.2e-4z" fill="#fff" opacity=".15" stroke-width="1.04"/>
+ <path id="menubaritem-pressed-left" d="m188 946v-17.999h-6l3.6e-4 18z" fill="#000000" opacity=".2" stroke-width="1.007"/>
+ <path id="menubaritem-pressed-topleft" d="m188 921c-3.2999-8e-5 -6 2.7-6 5.9999h6z" fill="#000000" opacity=".2" stroke-width="1.04"/>
+ <path id="menubaritem-pressed" d="m189 928v18h18v-18z" fill="#000000" opacity=".2" stroke-width=".97497"/>
+ <path id="menubaritem-pressed-right" d="m208 946v-17.999h6l-3.7e-4 18z" fill="#000000" opacity=".2" stroke-width="1.007"/>
+ <path id="menubaritem-pressed-topright" d="m208 921c3.2999-8e-5 6 2.7 6 5.9999h-6z" fill="#000000" opacity=".2" stroke-width="1.04"/>
+ <path id="menubaritem-pressed-top" d="m189 927h17.999v-6h-18z" fill="#000000" opacity=".2" stroke-width="1.007"/>
+ <path id="menubaritem-pressed-bottom" d="m207 947h-17.999v6h18z" fill="#000000" opacity=".2" stroke-width="1.007"/>
+ <path id="menubaritem-pressed-bottomleft" d="m188 953c-3.2999 0-5.9999-2.7-5.9999-5.9999l5.9999-1.1e-4z" fill="#000000" opacity=".2" stroke-width="1.04"/>
+ <path id="menubaritem-pressed-bottomright" d="m208 953c3.2999 0 5.9999-2.7 5.9999-5.9999l-5.9999-1.1e-4z" fill="#000000" opacity=".2" stroke-width="1.04"/>
+ <path id="menubaritem-toggled-left" d="m152 946v-17.999h-6l3.6e-4 18z" fill="#000000" opacity=".15" stroke-width="1.007"/>
+ <path id="menubaritem-toggled-topleft" d="m152 921c-3.2999-7e-5 -6 2.7-6 5.9999h6z" fill="#000000" opacity=".15" stroke-width="1.04"/>
+ <path id="menubaritem-toggled" d="m153 928v18h18v-18z" fill="#000000" opacity=".15" stroke-width=".97497"/>
+ <path id="menubaritem-toggled-right" d="m172 946v-17.999h6l-3.7e-4 18z" fill="#000000" opacity=".15" stroke-width="1.007"/>
+ <path id="menubaritem-toggled-topright" d="m172 921c3.2999-7e-5 6 2.7 6 5.9999h-6z" fill="#000000" opacity=".15" stroke-width="1.04"/>
+ <path id="menubaritem-toggled-top" d="m153 927h17.999v-6h-18z" fill="#000000" opacity=".15" stroke-width="1.007"/>
+ <path id="menubaritem-toggled-bottom" d="m171 947h-17.999v6h18z" fill="#000000" opacity=".15" stroke-width="1.007"/>
+ <path id="menubaritem-toggled-bottomleft" d="m152 953c-3.2999 0-5.9999-2.7-5.9999-5.9999l5.9999-1.2e-4z" fill="#000000" opacity=".15" stroke-width="1.04"/>
+ <path id="menubaritem-toggled-bottomright" d="m172 953c3.2999 0 5.9999-2.7 5.9999-5.9999l-5.9999-1.2e-4z" fill="#000000" opacity=".15" stroke-width="1.04"/>
  <g id="tab-toggled-topleft" transform="matrix(.99999 0 0 .99999 89 724)">
   <path d="m1-83h-6.0001l7.1e-5 9.0001h6z" fill="none" stroke-width="1.2248"/>
   <path d="m1-80c-3.324 0-6 2.676-6 6h6z" fill="#fff" opacity=".9"/>
