@@ -81,14 +81,14 @@ light.color=#ffffff
 mid.light.color=#f0f0f0
 dark.color=#c8c8c8
 mid.color=#e1e1e196
-highlight.color=#4285f435
-inactive.highlight.color=#4285f415
+highlight.color=#4285f4
+inactive.highlight.color=#4285f4150
 text.color=#444444
 window.text.color=#444444
 button.text.color=#444444
 disabled.text.color=#44444474
 tooltip.text.color=#444444
-highlight.text.color=#4285f4
+highlight.text.color=#ffffff
 link.color=#0057AE
 link.visited.color=#E040FB
 progress.indicator.text.color=#444444
@@ -150,7 +150,7 @@ text.disabled.color=#44444474
 text.bold=false
 indicator.element=arrow
 indicator.size=0
-frame.expansion=34
+frame.expansion=0
 
 [ToolbarButton]
 frame=true
@@ -550,6 +550,8 @@ text.shadow=0
 text.margin=0
 interior.element=tooltip
 frame.element=tooltip
+text.normal.color=#444444
+text.focus.color=#4285f4
 frame.expansion=6
 
 [StatusBar]

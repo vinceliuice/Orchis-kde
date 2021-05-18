@@ -35,15 +35,15 @@
      inkscape:snap-bbox="true"
      inkscape:current-layer="svg414"
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="61.610667"
-     inkscape:cx="168.31028"
+     inkscape:cy="134.6515"
+     inkscape:cx="206.77697"
      inkscape:zoom="1.503983"
      showgrid="false"
      id="namedview416"
-     inkscape:window-height="703"
-     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     inkscape:window-width="1368"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -725,10 +725,10 @@
   <rect
      y="237"
      x="-105"
-     height="4.9999962"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11803"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997"
      transform="rotate(-90)" />
   <g
      transform="matrix(0.99999999,0,0,0.71348867,237.99999,-626.56601)"
@@ -815,27 +815,27 @@
      style="opacity:0.2;fill:#ffffff;stroke-width:0.99999994"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11803"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997"
      id="toolbutton-hover-hint-top-margin"
      width="1.9999999"
-     height="4.9999971"
+     height="4"
      x="258"
      y="81" />
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11803"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999996"
      id="toolbutton-hover-hint-right-margin"
      width="1.9999999"
-     height="5"
+     height="4"
      x="-104.00002"
      y="276" />
   <rect
      y="120.00003"
      x="258"
-     height="4.9999785"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11803" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999" />
   <g
      style="stroke-width:1.11803"
      transform="matrix(-1.0000011,0,0,0.99999999,382.00006,66.999878)"
@@ -877,10 +877,10 @@
   <rect
      y="292"
      x="-104"
-     height="5.0000019"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11803"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999996"
      transform="rotate(-90)" />
   <g
      transform="matrix(0.99999999,0,0,0.71348862,293,-626.56606)"
@@ -968,27 +968,27 @@
      style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11802"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-pressed-hint-top-margin"
      width="1.9999999"
-     height="4.9998779"
+     height="4"
      x="313"
      y="81" />
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11803"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999"
      id="toolbutton-pressed-hint-right-margin"
      width="1.9999999"
-     height="4.9999695"
+     height="4"
      x="-103"
      y="331.00003" />
   <rect
      y="119.99992"
      x="313"
-     height="5.0000825"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11804" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999997" />
   <rect
      y="51.999897"
      x="133"
