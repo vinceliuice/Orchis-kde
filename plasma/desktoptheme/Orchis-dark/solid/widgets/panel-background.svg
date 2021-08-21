@@ -227,7 +227,7 @@
        width="6"
        height="32"
        id="rect31"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="topleft"
@@ -235,7 +235,7 @@
     <path
        d="m 25,910.36 c -6.648,0 -12,5.352 -12,12 h 12 v -10 z"
        id="path34"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="topright"
@@ -243,7 +243,7 @@
     <path
        d="m 45,910.36 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"
        id="path37"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="bottom"
@@ -256,7 +256,7 @@
        width="6"
        height="32"
        id="rect40"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="bottomleft"
@@ -264,7 +264,7 @@
     <path
        d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 H 15 Z"
        id="path43"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="bottomright"
@@ -272,7 +272,7 @@
     <path
        d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 H 47 Z"
        id="path46"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="left"
@@ -285,7 +285,7 @@
        width="6"
        height="32"
        id="rect49"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="right"
@@ -297,7 +297,7 @@
        width="6"
        height="32"
        id="rect52"
-       style="fill:#000000;opacity:0.65" />
+       style="fill:#282828;opacity:1;fill-opacity:1" />
   </g>
   <rect
      id="center"
@@ -306,7 +306,7 @@
      y="22"
      width="12"
      height="12"
-     style="fill:#000000;opacity:0.65" />
+     style="fill:#282828;opacity:1;fill-opacity:1" />
   <rect
      id="hint-top-margin"
      x="64"

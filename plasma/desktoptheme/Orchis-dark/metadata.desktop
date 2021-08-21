@@ -21,3 +21,6 @@ defaultWallpaperTheme=Orchis
 defaultFileSuffix=.jpg
 defaultWidth=1920
 defaultHeight=1280
+
+[AdaptiveTransparency]
+enabled=true

@@ -1,5 +1,5 @@
 [ColorEffects:Disabled]
-Color=56,56,56
+Color=150,150,150
 ColorAmount=0
 ColorEffect=0
 ContrastAmount=0.65
@@ -9,7 +9,7 @@ IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
-Color=112,111,110
+Color=150,150,150
 ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.1
