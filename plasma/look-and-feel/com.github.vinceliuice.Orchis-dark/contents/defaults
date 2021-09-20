@@ -8,7 +8,7 @@ ColorScheme=OrchisDark
 Theme=Tela-circle-dark
 
 [kdeglobals][KDE]
-widgetStyle=kvantum
+widgetStyle=kvantum-dark
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
