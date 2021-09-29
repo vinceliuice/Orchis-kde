@@ -22,8 +22,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:zoom="7.8612717"
-     inkscape:cx="37.20772"
-     inkscape:cy="17.109191"
+     inkscape:cx="130.44963"
+     inkscape:cy="36.317279"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="0"
@@ -276,8 +276,9 @@
        y="-51"
        width="6"
        height="32"
+       fill="#ffffff"
        id="rect40"
-       style="fill:#ffffff;opacity:0.75" />
+       style="opacity:1" />
   </g>
   <g
      id="topleft"
@@ -285,8 +286,9 @@
     <path
        transform="translate(-19 904.36)"
        d="m38 6c-3.324 0-6 2.676-6 6v6h12v-12h-6z"
+       fill="#ffffff"
        id="path43"
-       style="fill:#ffffff;opacity:0.75" />
+       style="opacity:1" />
   </g>
   <g
      id="bottom"
@@ -298,8 +300,9 @@
        y="-51"
        width="6"
        height="32"
+       fill="#ffffff"
        id="rect46"
-       style="fill:#ffffff;opacity:0.75" />
+       style="opacity:1" />
   </g>
   <g
      id="left"
@@ -311,8 +314,9 @@
        y="916.36"
        width="6"
        height="32"
+       fill="#ffffff"
        id="rect49"
-       style="fill:#ffffff;opacity:0.75" />
+       style="opacity:1" />
   </g>
   <g
      id="right"
@@ -323,8 +327,9 @@
        y="916.36"
        width="6"
        height="32"
+       fill="#ffffff"
        id="rect52"
-       style="fill:#ffffff;opacity:0.75" />
+       style="opacity:1" />
   </g>
   <rect
      id="center"
@@ -333,7 +338,8 @@
      y="18"
      width="20"
      height="20"
-     style="fill:#ffffff;opacity:0.75" />
+     fill="#ffffff"
+     style="opacity:1" />
   <rect
      id="hint-top-margin"
      x="52"
@@ -396,39 +402,39 @@
      fill="#ff6600" />
   <g
      id="mask-top"
-     transform="matrix(.625 0 0 1 117.12 -904.38)">
+     transform="matrix(0.625,0,0,1,117.125,-904.35999)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       x="-922.36"
+       x="-922.35999"
        y="-51"
        width="12"
        height="32"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        id="rect64" />
   </g>
   <g
      id="mask-topleft"
-     transform="matrix(1.2 0 0 1.2 101.4 -1086.4)">
+     transform="matrix(1.2,0,0,1.2,101.40058,-1086.4374)">
     <path
-       transform="matrix(.90909 0 0 .90909 -93.364 904.91)"
-       d="m124 6c-3.878 0-7 3.122-7 7v4h11v-11z"
+       transform="matrix(0.90909,0,0,0.90909,-93.364,904.91)"
+       d="m 124,6 c -3.878,0 -7,3.122 -7,7 v 4 h 11 V 6 Z"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        stroke-width="2.2"
        id="path67" />
   </g>
   <g
      id="mask-bottom"
-     transform="matrix(.625 0 0 1.2 117.12 -1095.2)">
+     transform="matrix(0.625,0,0,1.2,117.125,-1095.232)">
     <rect
        transform="rotate(90)"
-       x="944.36"
+       x="944.35999"
        y="-51"
        width="10"
        height="32"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        id="rect70" />
   </g>
   <g
@@ -494,22 +500,28 @@
      xlink:href="#topleft" />
   <use
      id="mask-topright"
-     transform="matrix(-1 0 0 1 278 .0010384)"
+     transform="matrix(-1,0,0,1,278,0)"
      width="100%"
      height="100%"
-     xlink:href="#mask-topleft" />
+     xlink:href="#mask-topleft"
+     x="0"
+     y="0" />
   <use
      id="mask-bottomleft"
-     transform="matrix(1 0 0 -1 -.00051893 55.999)"
+     transform="matrix(1,0,0,-1,-4e-6,56.000036)"
      width="100%"
      height="100%"
-     xlink:href="#mask-topleft" />
+     xlink:href="#mask-topleft"
+     x="0"
+     y="0" />
   <use
      id="mask-bottomright"
-     transform="rotate(180 139 27.999)"
+     transform="rotate(180,139,28.000018)"
      width="100%"
      height="100%"
-     xlink:href="#mask-topleft" />
+     xlink:href="#mask-topleft"
+     x="0"
+     y="0" />
   <rect
      style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182575"
      id="hint-top-inset"
