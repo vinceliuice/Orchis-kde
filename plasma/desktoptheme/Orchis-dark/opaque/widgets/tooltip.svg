@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg87"
    sodipodi:docname="tooltip.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,8 +22,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:zoom="7.8612717"
-     inkscape:cx="59.723162"
-     inkscape:cy="21.561397"
+     inkscape:cx="42.995588"
+     inkscape:cy="16.155147"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="0"
@@ -229,7 +229,7 @@
      width="100%"
      height="100%"
      xlink:href="#shadow-topleft"
-     id="use32" />
+     id="shadow-topright" />
   <use
      id="shadow-top"
      transform="rotate(90 54 28)"
@@ -278,6 +278,15 @@
        height="32"
        id="rect40"
        style="opacity:1;fill:#242424;fill-opacity:1" />
+    <rect
+       class="ColorScheme-Background"
+       transform="matrix(0,-1,-1,0,0,0)"
+       x="-910.85999"
+       y="-51"
+       width="0.5"
+       height="32"
+       id="rect1024"
+       style="opacity:0.08;fill:#ffffff;stroke-width:0.288675" />
   </g>
   <g
      id="topleft"
@@ -287,6 +296,11 @@
        d="m38 6c-3.324 0-6 2.676-6 6v6h12v-12h-6z"
        id="path43"
        style="fill:#242424;opacity:1;fill-opacity:1" />
+    <path
+       id="path965"
+       style="fill:#ffffff;opacity:0.08"
+       d="M 38 6 C 34.676 6 32 8.676 32 12 L 32 13 C 32 9.676 34.676 7 38 7 L 44 7 L 44 6 L 38 6 z "
+       transform="translate(-19,904.36)" />
   </g>
   <g
      id="bottom"
@@ -480,18 +494,24 @@
      width="100%"
      height="100%"
      xlink:href="#topleft" />
-  <use
+  <g
      id="bottomleft"
-     transform="matrix(1 0 0 -1 9.2939e-7 56)"
-     width="100%"
-     height="100%"
-     xlink:href="#topleft" />
-  <use
+     transform="matrix(1,0,0,-1,19.000001,960.36)">
+    <path
+       transform="translate(-19,904.36)"
+       d="m 38,6 c -3.324,0 -6,2.676 -6,6 v 6 H 44 V 6 Z"
+       id="path1080"
+       style="opacity:1;fill:#242424;fill-opacity:1" />
+  </g>
+  <g
      id="bottomright"
-     transform="rotate(180 54 28)"
-     width="100%"
-     height="100%"
-     xlink:href="#topleft" />
+     transform="rotate(180,44.5,480.18)">
+    <path
+       transform="translate(-19,904.36)"
+       d="m 38,6 c -3.324,0 -6,2.676 -6,6 v 6 H 44 V 6 Z"
+       id="path1086"
+       style="opacity:1;fill:#242424;fill-opacity:1" />
+  </g>
   <use
      id="mask-topright"
      transform="matrix(-1,0,0,1,278.00058,0.0384744)"

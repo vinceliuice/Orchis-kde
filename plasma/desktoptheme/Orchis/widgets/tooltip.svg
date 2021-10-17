@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg87"
    sodipodi:docname="tooltip.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,14 +21,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="7.8612717"
-     inkscape:cx="37.20772"
-     inkscape:cy="17.109191"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="5.5587585"
+     inkscape:cx="74.477061"
+     inkscape:cy="5.5767848"
+     inkscape:window-width="1446"
+     inkscape:window-height="894"
+     inkscape:window-x="739"
+     inkscape:window-y="94"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg87">
     <inkscape:grid
        type="xygrid"
@@ -229,7 +229,7 @@
      width="100%"
      height="100%"
      xlink:href="#shadow-topleft"
-     id="use32" />
+     id="shadow-topright" />
   <use
      id="shadow-top"
      transform="rotate(90 54 28)"
@@ -396,15 +396,15 @@
      fill="#ff6600" />
   <g
      id="mask-top"
-     transform="matrix(.625 0 0 1 117.12 -904.38)">
+     transform="matrix(0.625,0,0,1,117.125,-904.35999)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       x="-922.36"
+       x="-922.35999"
        y="-51"
        width="12"
        height="32"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        id="rect64" />
   </g>
   <g
@@ -420,15 +420,15 @@
   </g>
   <g
      id="mask-bottom"
-     transform="matrix(.625 0 0 1.2 117.12 -1095.2)">
+     transform="matrix(0.625,0,0,1.2,117.125,-1095.232)">
     <rect
        transform="rotate(90)"
-       x="944.36"
+       x="944.35999"
        y="-51"
        width="10"
        height="32"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        id="rect70" />
   </g>
   <g
@@ -494,16 +494,20 @@
      xlink:href="#topleft" />
   <use
      id="mask-topright"
-     transform="matrix(-1 0 0 1 278 .0010384)"
+     transform="matrix(-1,0,0,1,277.99942,-0.037436)"
      width="100%"
      height="100%"
-     xlink:href="#mask-topleft" />
+     xlink:href="#mask-topleft"
+     x="0"
+     y="0" />
   <use
      id="mask-bottomleft"
-     transform="matrix(1 0 0 -1 -.00051893 55.999)"
+     transform="matrix(1,0,0,-1,5.76e-4,56.037436)"
      width="100%"
      height="100%"
-     xlink:href="#mask-topleft" />
+     xlink:href="#mask-topleft"
+     x="0"
+     y="0" />
   <use
      id="mask-bottomright"
      transform="rotate(180 139 27.999)"
