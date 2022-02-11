@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg7229"
+   width="22"
+   height="22"
+   version="1"
+   viewBox="0 0 22 22"
+   sodipodi:docname="battery.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview172"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.55744924"
+     inkscape:cx="78.930953"
+     inkscape:cy="185.66713"
+     inkscape:window-width="1104"
+     inkscape:window-height="479"
+     inkscape:window-x="295"
+     inkscape:window-y="263"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7229" />
+  <defs
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#5c616c; }</style>
+  </defs>
+  <g
+     id="g1225"
+     transform="translate(0,30)">
+    <rect
+       id="rect1217"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1223"
+       transform="translate(-262 394)">
+      <rect
+         id="rect1219"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1221"
+         transform="translate(241 -473)"
+         d="m30 83v1h-3v1 11c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-11-1h-3v-1z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Battery">
+    <rect
+       id="rect918"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g6682"
+       transform="translate(-262 394)">
+      <rect
+         id="rect3747-8-0"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="rect6676"
+         transform="translate(241 -473)"
+         d="m30 83v1h-3v1 11c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-11-1h-3v-1z"
+         class="ColorScheme-Text"
+         fill="currentColor"
+         opacity=".5" />
+    </g>
+  </g>
+  <g
+     id="22-22-battery-ups"
+     transform="translate(25,30)">
+    <rect
+       id="rect928"
+       x="35"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g6744"
+       transform="translate(-227 394)">
+      <rect
+         id="rect6746"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path6748"
+         transform="translate(121 -473)"
+         d="m150 83v1h-3v1 11c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-11-1h-3v-1zm2 4v3h3l-3 5v-3h-3z"
+         fill="#4caf50" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill30"
+     transform="translate(-36,-2)">
+    <rect
+       id="rect944"
+       x="281"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g6705"
+       transform="matrix(-1 0 0 1 565 396)">
+      <rect
+         id="rect6707"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path6711"
+         class="ColorScheme-Text"
+         d="m 268,-376 3e-5,-3 c 1e-5,-0.554 0.446,-1 1,-1 h 8 c 0.554,0 1,0.446 1,1 v 2 z"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill50"
+     transform="translate(-35,-2)">
+    <rect
+       id="rect940"
+       x="218"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g6697"
+       transform="matrix(-1 0 0 1 502 396)">
+      <rect
+         id="rect6699"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path6703"
+         transform="translate(221 -473)"
+         d="m47 91 3e-5 5c3e-6 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-4z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill80"
+     transform="translate(-38)">
+    <rect
+       id="rect934"
+       x="128"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g6686"
+       transform="translate(-134 394)">
+      <rect
+         id="rect6688"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path6692"
+         transform="translate(221 -473)"
+         d="m47 88v8c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-8z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill70"
+     transform="translate(-39)">
+    <rect
+       id="rect936"
+       x="160"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g6903"
+       transform="translate(-102 394)">
+      <rect
+         id="rect6905"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path6909"
+         transform="translate(221 -473)"
+         d="m47 90v6c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-7z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill100"
+     transform="translate(-37)">
+    <rect
+       id="rect930"
+       x="65"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1040"
+       transform="translate(-197 394)">
+      <rect
+         id="rect1036"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1038"
+         transform="translate(241 -473)"
+         d="m30 83v1h-3v1 11c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-11-1h-3v-1z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill90"
+     transform="translate(-41)">
+    <rect
+       id="rect932"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1048"
+       transform="translate(-162 394)">
+      <rect
+         id="rect1042"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1046"
+         transform="translate(221 -473)"
+         d="m47 88v8c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-9z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill60"
+     transform="translate(-36,-2)">
+    <rect
+       id="rect938"
+       x="188"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1056"
+       transform="translate(-74 396)">
+      <rect
+         id="rect1050"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1054"
+         transform="translate(221 -473)"
+         d="m47 90v6c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-6z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill40"
+     transform="translate(-39,-2)">
+    <rect
+       id="rect942"
+       x="253"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1064"
+       transform="matrix(-1 0 0 1 537 396)">
+      <rect
+         id="rect1058"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1062"
+         transform="translate(221 -473)"
+         d="m47 92v4c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-4z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill20"
+     transform="translate(-36,-2)">
+    <rect
+       id="rect946"
+       x="313"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1072"
+       transform="matrix(-1 0 0 1 597 396)">
+      <rect
+         id="rect1066"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1070"
+         class="error"
+         transform="translate(221 -473)"
+         d="m47 94v2c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-2z"
+         fill="#f44336" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill10"
+     transform="translate(-35 -2)">
+    <rect
+       id="rect954"
+       x="343"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1080"
+       transform="matrix(-1 0 0 1 627 396)">
+      <rect
+         id="rect1074"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1078"
+         class="error"
+         transform="translate(221 -473)"
+         d="m47 94v2c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1l-3e-5 -1z"
+         fill="#f44336" />
+    </g>
+  </g>
+  <g
+     id="22-22-Fill0"
+     transform="translate(-36 -2)">
+    <rect
+       id="rect956"
+       x="375"
+       y="2"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1094"
+       transform="translate(113 396)">
+      <rect
+         id="rect1090"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1092"
+         transform="translate(-77 -394)"
+         d="m348 4v1h-3v12c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-12h-3v-1z"
+         fill="#f44336"
+         opacity=".5" />
+    </g>
+  </g>
+  <g
+     id="22-22-AcAdapter"
+     transform="rotate(-90 -68.984 357.52)">
+    <path
+       id="rect4185-5"
+       d="m236.54 426.5h22v22h-22z"
+       fill="none" />
+    <path
+       id="path4600"
+       transform="translate(214.54 404.5)"
+       d="m34 30a3 3 0 0 0-2.826 2h-1.174v2h1.176a3 3 0 0 0 2.824 2v-1h2v-1h-2v-2h2v-1h-2z"
+       fill="#4caf50" />
+  </g>
+  <g
+     id="g1235"
+     transform="translate(30,30)">
+    <rect
+       id="rect1227"
+       width="22"
+       height="22"
+       opacity="0" />
+    <g
+       id="g1233"
+       transform="translate(-262 394)">
+      <rect
+         id="rect1229"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1231"
+         transform="translate(241 -473)"
+         d="m30 83v1h-3v1 11c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-11-1h-3v-1z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="22-22-Unavailable"
+     transform="translate(-228.54 -396.5)">
+    <path
+       id="rect4614"
+       d="m258.54 426.5h22v22h-22z"
+       fill="none" />
+    <g
+       id="g4631">
+      <rect
+         id="rect4577-9-1"
+         x="270.54"
+         y="438.5"
+         width="8"
+         height="8"
+         rx="4"
+         ry="4"
+         fill="#f44336" />
+      <path
+         id="rect4622"
+         d="m276.66 441.09-0.70699-0.707-1.4143 1.4143-1.4143-1.4143-0.70699 0.707 1.4143 1.4143-1.4143 1.4141 0.70699 0.707 1.4143-1.4141 1.4142 1.4142 0.707-0.70699-1.4142-1.4142z"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <g
+     id="Fill100"
+     transform="matrix(1.4545 0 0 1.4545 37.273 70)">
+    <rect
+       id="rect918-6"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g6682-1"
+       transform="translate(-262 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect3747-8-0-8"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="rect6676-7"
+         d="m270.94-389.88v1.375h-2.75v11.393c0 0.5441 0.42928 0.98214 0.9625 0.98214h7.7c0.53322 0 0.9625-0.43804 0.9625-0.98214v-11.393h-2.75v-1.375z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="battery-ups"
+     transform="matrix(1.4545 0 0 1.4545 57 117)">
+    <rect
+       id="rect928-9"
+       x="35"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g6744-2"
+       transform="translate(-227 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect6746-0"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path6748-2"
+         d="m270.94-389.88v1.375h-2.75v11.393c0 0.5441 0.42928 0.98214 0.9625 0.98214h7.7c0.53322 0 0.9625-0.43804 0.9625-0.98214v-11.393h-2.75v-1.375zm2.0625 4.125v2.75h2.75l-2.75 4.8125v-2.75h-2.75z"
+         fill="#4caf50" />
+    </g>
+  </g>
+  <g
+     id="Fill90"
+     transform="matrix(1.4545 0 0 1.4545 -72.455 70)">
+    <rect
+       id="rect932-3"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g1048-7"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect1042-5"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path1046-2"
+         d="m268.19-385.01v7.9c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-9.325z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Fill80"
+     transform="matrix(1.4545 0 0 1.4545 -37.455 70)">
+    <rect
+       id="rect2120"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2128"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2122"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2126"
+         d="m268.19-385.06v7.95c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-7.95z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Fill70"
+     transform="matrix(1.4545 0 0 1.4545 -2.4545 70)">
+    <rect
+       id="rect2156"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2164"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2158"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2162"
+         d="m268.19-383v5.8875c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-7.2625z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Fill60"
+     transform="matrix(1.4545 0 0 1.4545 32.545 70)">
+    <rect
+       id="rect2168"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2176"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2170"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2174"
+         d="m268.19-383v5.8875c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-5.8875z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Fill50"
+     transform="matrix(1.4545 0 0 1.4545 67.545 70)">
+    <rect
+       id="rect2180"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2188"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2182"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2186"
+         d="m268.19-381.62v4.5125c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-5.8875z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Fill40"
+     transform="matrix(1.4545 0 0 1.4545 103.55 70)">
+    <rect
+       id="rect2192"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2200"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2194"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2198"
+         d="m268.19-381.62v4.5125c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-4.5125z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Fill30"
+     transform="matrix(1.4545 0 0 1.4545 138.55 70)">
+    <rect
+       id="rect2204"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2212"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2206"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2210"
+         d="m268.19-378.87v1.7625c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-3.1375z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Fill20"
+     transform="matrix(1.4545 0 0 1.4545 173.55 70)">
+    <rect
+       id="rect2216"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2224"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2218"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2222"
+         d="m268.19-378.87v1.7625c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-1.7625z"
+         fill="#f44336" />
+    </g>
+  </g>
+  <g
+     id="Fill0"
+     transform="matrix(1.4545 0 0 1.4545 391 70)">
+    <rect
+       id="rect2240"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2246"
+       transform="translate(-262 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2242"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2244"
+         transform="matrix(.6875 0 0 .6875 -6.8123 -442.12)"
+         d="m404 76v2h-4v16.572c0 0.79142 0.6248 1.4277 1.4004 1.4277h11.199c0.77559 0 1.4004-0.63632 1.4004-1.4277v-16.572h-4v-2z"
+         fill="#f44336"
+         opacity=".5" />
+    </g>
+  </g>
+  <g
+     id="Fill10"
+     transform="matrix(1.4545 0 0 1.4545 209.55 70)">
+    <rect
+       id="rect2250"
+       x="100"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2258"
+       transform="translate(-162 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2252"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2256"
+         d="m268.19-377.5v0.3875c0 0.54708 0.42928 0.9875 0.9625 0.9875h7.7c0.53322 0 0.9625-0.44042 0.9625-0.9875v-1.7625z"
+         fill="#f44336" />
+    </g>
+  </g>
+  <g
+     id="Battery"
+     transform="matrix(1.4545 0 0 1.4545 1.9091 70)">
+    <rect
+       id="rect2262"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2268"
+       transform="translate(-262 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2264"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2266"
+         d="m270.94-389.88v1.375h-2.75v11.393c0 0.5441 0.42928 0.98214 0.9625 0.98214h7.7c0.53322 0 0.9625-0.43804 0.9625-0.98214v-11.393h-2.75v-1.375z"
+         class="ColorScheme-Text"
+         fill="currentColor"
+         opacity=".5" />
+    </g>
+  </g>
+  <g
+     id="g2292"
+     transform="matrix(1.4545 0 0 1.4545 11.909 115)">
+    <rect
+       id="rect2284"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2290"
+       transform="translate(-262 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2286"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2288"
+         d="m270.94-389.88v1.375h-2.75v11.393c0 0.5441 0.42928 0.98214 0.9625 0.98214h7.7c0.53322 0 0.9625-0.43804 0.9625-0.98214v-11.393h-2.75v-1.375z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="AcAdapter"
+     transform="rotate(-90 -59.53 357.07)">
+    <path
+       id="rect4470"
+       d="m150.54 428.5h32v32h-32z"
+       fill="none" />
+    <g
+       id="g4600">
+      <path
+         id="path4472"
+         transform="translate(214.54 404.5)"
+         d="m-48 37a3 3 0 0 0-2.826 2h-1.174v2h1.176a3 3 0 0 0 2.824 2v-1h2v-1h-2v-2h2v-1h-2z"
+         fill="#4caf50" />
+    </g>
+  </g>
+  <g
+     id="g2316"
+     transform="matrix(1.4545 0 0 1.4545 57.202 116)">
+    <rect
+       id="rect2308"
+       width="22"
+       height="22"
+       opacity="0"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <g
+       id="g2314"
+       transform="translate(-262 394)"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <rect
+         id="rect2310"
+         transform="rotate(90)"
+         x="-391"
+         y="-281"
+         width="16"
+         height="16"
+         fill="none" />
+      <path
+         id="path2312"
+         d="m270.94-389.88v1.375h-2.75v11.393c0 0.5441 0.42928 0.98214 0.9625 0.98214h7.7c0.53322 0 0.9625-0.43804 0.9625-0.98214v-11.393h-2.75v-1.375z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="Unavailable"
+     transform="translate(-61.334 -312.5)">
+    <path
+       id="rect4480"
+       d="m118.54 428.5h32v32h-32z"
+       fill="none" />
+    <g
+       id="g4580">
+      <rect
+         id="rect4577"
+         x="136.24"
+         y="445.5"
+         width="10"
+         height="10"
+         rx="5"
+         ry="5"
+         fill="#f44336" />
+      <path
+         id="rect4622-0"
+         d="m144.07 448.38-0.70699-0.707-2.1213 2.1213-2.1213-2.1213-0.70711 0.70711 2.1214 2.1212-2.1214 2.1214 0.70711 0.70711 2.1213-2.1216 2.1213 2.1216 0.70711-0.70711-2.1214-2.1214z"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="nepomuk">
+  <rect width="22" height="22" opacity="0"/>
+  <g transform="matrix(-1 0 0 1 385 -3)">
+   <path class="ColorScheme-Text" fill="currentColor" transform="translate(241 -617)" d="m134.51 624c-3.0288 0-5.5312 2.4746-5.5312 5.5 0 1.1499 0.38921 2.2078 1 3.0938l-3.8083 3.8087 1.4062 1.4375 3.8083-3.8087c0.88729 0.61091 1.973 0.96875 3.125 0.96875 3.0289 0 5.5-2.4746 5.5-5.5 0-3.0254-2.4711-5.5-5.5-5.5zm0 2c1.9474 0 3.5 1.5548 3.5 3.5 0 1.9451-1.5526 3.5-3.5 3.5-1.9474 0-3.5-1.5549-3.5-3.5 0-1.9452 1.5526-3.5 3.5-3.5z"/>
+   <rect x="366" y="6" width="16" height="16" fill="none"/>
+  </g>
+ </g>
+</svg>
