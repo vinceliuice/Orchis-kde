@@ -4,48 +4,48 @@
   <style type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
  </defs>
  <g id="22-22-phone">
-  <rect x="6" y="2" width="10" height="18" rx="1" ry="1" fill="#333333" opacity=".25"/>
+  <rect x="6" y="2" width="10" height="18" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
   <path d="m0 0h22v22h-22z" opacity="0"/>
-  <path d="m7 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" fill="#333333"/>
-  <path d="m8.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" fill="#333333" opacity=".5"/>
+  <path d="m7 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m8.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
  </g>
  <g id="16-16-phone">
-  <path d="m5 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="#333333"/>
-  <rect x="4" y="28" width="8" height="12" rx="1" ry="1" fill="#333333" opacity=".25"/>
+  <path d="m5 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="4" y="28" width="8" height="12" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
   <rect y="26" width="16" height="16" rx="0" ry="0" opacity="0"/>
-  <rect x="6" y="27" width="4" height="2" rx="1" ry="1" fill="#333333"/>
-  <path d="m6.6375 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z" fill="#333333" opacity=".5"/>
+  <rect x="6" y="27" width="4" height="2" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m6.6375 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
  </g>
  <g id="phone">
-  <path d="m10-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z" fill="#333333"/>
-  <rect x="9" y="-30" width="14" height="24" rx="0" ry="1" fill="#333333" opacity=".25"/>
+  <path d="m10-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="9" y="-30" width="14" height="24" rx="0" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
   <rect y="-34" width="32" height="32" rx="0" ry="0" opacity="0"/>
-  <rect x="13" y="-31" width="6" height="2" rx="1" ry="1" fill="#333333"/>
-  <rect x="12" y="-8" width="8" height="1" rx=".537" ry="1" fill="#333333" opacity=".5"/>
+  <rect x="13" y="-31" width="6" height="2" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="12" y="-8" width="8" height="1" rx=".537" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
  </g>
  <g id="phone-battery">
-  <path d="m47-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z" fill="#333333"/>
-  <rect x="46" y="-30" width="14" height="24" rx="0" ry="1" fill="#333333" opacity=".25"/>
+  <path d="m47-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="46" y="-30" width="14" height="24" rx="0" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
   <rect x="37" y="-34" width="32" height="32" rx="0" ry="0" opacity="0"/>
-  <rect x="50" y="-31" width="6" height="2" rx="1" ry="1" fill="#333333"/>
-  <rect x="49" y="-8" width="8" height="1" rx=".537" ry="1" fill="#333333" opacity=".5"/>
+  <rect x="50" y="-31" width="6" height="2" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="49" y="-8" width="8" height="1" rx=".537" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
   <g transform="rotate(-90,-121.98,269.52)">
    <path transform="translate(214.54,404.5)" d="m-48 37a3 3 0 0 0-2.826 2h-1.174v2h1.176a3 3 0 0 0 2.824 2v-1h2v-1h-2v-2h2v-1h-2z" fill="#4caf50"/>
   </g>
  </g>
  <g id="22-22-phone-battery">
-  <rect x="43" y="2" width="10" height="18" rx="1" ry="1" fill="#333333" opacity=".25"/>
+  <rect x="43" y="2" width="10" height="18" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
   <path d="m37 0h22v22h-22z" opacity="0"/>
-  <path d="m44 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" fill="#333333"/>
-  <path d="m45.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" fill="#333333" opacity=".5"/>
+  <path d="m44 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m45.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
   <path d="m45 10a3 3 0 0 0 2 2.826v1.174h2v-1.176a3 3 0 0 0 2-2.824h-1v-2h-1v2h-2v-2h-1v2z" fill="#4caf50"/>
  </g>
  <g id="16-16-phone-battery">
-  <path d="m42 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="#333333"/>
-  <rect x="41" y="28" width="8" height="12" rx="1" ry="1" fill="#333333" opacity=".25"/>
+  <path d="m42 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="41" y="28" width="8" height="12" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
   <rect x="37" y="26" width="16" height="16" rx="0" ry="0" opacity="0"/>
-  <rect x="43" y="27" width="4" height="2" rx="1" ry="1" fill="#333333"/>
-  <path d="m43.637 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z" fill="#333333" opacity=".5"/>
+  <rect x="43" y="27" width="4" height="2" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m43.637 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
   <path d="m42 33a3 3 0 0 0 2 2.826v1.174h2v-1.176a3 3 0 0 0 2-2.824h-1v-2h-1v2h-2v-2h-1v2z" fill="#4caf50"/>
  </g>
 </svg>

@@ -19,16 +19,22 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="6.3068182"
-     inkscape:cx="8.7207207"
-     inkscape:cy="10.623423"
+     showgrid="true"
+     inkscape:zoom="8.9191878"
+     inkscape:cx="13.342022"
+     inkscape:cy="3.4756528"
      inkscape:window-width="1440"
      inkscape:window-height="748"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="22-22-compass"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
   <defs
      id="defs3">
     <style
@@ -89,15 +95,15 @@
        fill="none"
        id="circle10" />
     <path
-       id="path1252"
-       d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 a 5.9999809,5.9999809 0 0 1 6,6 5.9999809,5.9999809 0 0 1 -6,6 5.9999809,5.9999809 0 0 1 -6,-6 5.9999809,5.9999809 0 0 1 6,-6 z"
-       class="ColorScheme-Text"
-       fill="currentColor" />
-    <path
        d="M 13.482422,7.265625 9.246094,8.589844 a 1.0001,1.0001 0 0 0 -0.65625,0.65625 l -1.324219,4.236328 a 1.0001,1.0001 0 0 0 1.251953,1.251953 l 4.236328,-1.324219 a 1.0001,1.0001 0 0 0 0.65625,-0.65625 L 14.734375,8.517578 A 1.0001,1.0001 0 0 0 13.482422,7.265625 Z M 12.253906,9.746094 11.65625,11.65625 9.746094,12.253906 10.34375,10.34375 Z"
        id="path1254"
        class="ColorScheme-Text"
        fill="currentColor"
        style="opacity:0.45" />
+    <path
+       id="path959"
+       d="M 11 2 A 9 9 0 0 0 2 11 A 9 9 0 0 0 11 20 A 9 9 0 0 0 20 11 A 9 9 0 0 0 11 2 z M 11 4 A 7 7 0 0 1 18 11 A 7 7 0 0 1 11 18 A 7 7 0 0 1 4 11 A 7 7 0 0 1 11 4 z "
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
 </svg>
