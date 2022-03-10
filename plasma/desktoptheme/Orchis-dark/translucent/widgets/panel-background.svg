@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg118"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,13 +21,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="54.1875"
-     inkscape:cy="15.0625"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="89.449008"
+     inkscape:cy="24.395184"
+     inkscape:window-width="1440"
+     inkscape:window-height="748"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg118">
     <inkscape:grid
@@ -492,96 +492,6 @@
      width="4"
      height="12"
      fill="#f60" />
-  <g
-     id="mask-top"
-     transform="matrix(.375 0 0 1.25 137.87 -1132)">
-    <rect
-       transform="matrix(0,-1,-1,0,0,0)"
-       x="-922.36"
-       y="-51"
-       width="12"
-       height="32"
-       opacity=".97"
-       id="rect92" />
-  </g>
-  <g
-     id="mask-topleft"
-     transform="matrix(1.5 0 0 1.5 109.5 -1359.5)">
-    <path
-       d="m23 910.36c-5.54 0-10 4.46-10 10h10z"
-       opacity=".97"
-       stroke-width="2"
-       id="path95" />
-  </g>
-  <g
-     id="mask-topright"
-     transform="matrix(1.875 0 0 1.875 66.125 -1700.9)">
-    <path
-       d="m49 910.36v8h8c0-4.432-3.568-8-8-8z"
-       opacity=".97"
-       stroke-width="1.6"
-       id="path98" />
-  </g>
-  <g
-     id="mask-bottom"
-     transform="matrix(.375 0 0 1.5 137.87 -1381.5)">
-    <rect
-       transform="rotate(90)"
-       x="944.36"
-       y="-51"
-       width="10"
-       height="32"
-       opacity=".97"
-       id="rect101" />
-  </g>
-  <g
-     id="mask-bottomleft"
-     transform="matrix(1.25 0 0 1.25 112.75 -1143)">
-    <path
-       d="m13 942.36c0 6.648 5.352 12 12 12v-12z"
-       opacity=".97"
-       stroke-width="2.4"
-       id="path104" />
-  </g>
-  <g
-     id="mask-bottomright"
-     transform="matrix(1.25 0 0 1.25 101.75 -1143)">
-    <path
-       d="m45 942.36v12c6.648 0 12-5.352 12-12z"
-       opacity=".97"
-       stroke-width="2.4"
-       id="path107" />
-  </g>
-  <g
-     id="mask-left"
-     transform="matrix(1.25 0 0 .60001 112.75 -531.42)">
-    <rect
-       transform="scale(-1,1)"
-       x="-25"
-       y="922.36"
-       width="12"
-       height="20"
-       opacity=".97"
-       id="rect110" />
-  </g>
-  <g
-     id="mask-right"
-     transform="matrix(1.5 0 0 .375 87.5 -321.64)">
-    <rect
-       x="47"
-       y="916.36"
-       width="10"
-       height="32"
-       opacity=".97"
-       id="rect113" />
-  </g>
-  <rect
-     id="mask-center"
-     x="145"
-     y="22"
-     width="12"
-     height="12"
-     opacity=".97" />
   <rect
      id="shadow-center"
      class="ColorScheme-Background"
@@ -690,4 +600,81 @@
      width="3.9999998"
      id="shadow-hint-bottom-inset"
      style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1.41421" />
+  <g
+     id="mask-top"
+     transform="matrix(0.375,0,0,1.3333333,137.875,-1207.8133)">
+    <rect
+       transform="matrix(0,-1,-1,0,0,0)"
+       x="-922.35999"
+       y="-51"
+       width="12"
+       height="32"
+       id="rect92" />
+  </g>
+  <g
+     id="mask-topleft"
+     transform="matrix(1.6,0,0,1.6,108.2,-1450.536)">
+    <path
+       d="m 23,910.36 c -5.54,0 -10,4.46 -10,10 h 10 z"
+       id="path95" />
+  </g>
+  <g
+     id="mask-topright"
+     transform="matrix(1.875,0,0,1.875,65.125,-1700.895)">
+    <path
+       d="m 49,910.36 v 8.53333 h 8.533333 C 57.533333,914.16587 53.727467,910.36 49,910.36 Z"
+       id="path98" />
+  </g>
+  <g
+     id="mask-bottom"
+     transform="matrix(0.375,0,0,1.6,137.875,-1476.976)">
+    <rect
+       transform="rotate(90)"
+       x="944.35999"
+       y="-51"
+       width="10"
+       height="32"
+       id="rect101" />
+  </g>
+  <g
+     id="mask-bottomleft"
+     transform="matrix(1.3333333,0,0,1.3333333,111.66667,-1222.48)">
+    <path
+       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 z"
+       id="path104" />
+  </g>
+  <g
+     id="mask-bottomright"
+     transform="matrix(1.3333333,0,0,1.3333333,97.000001,-1222.48)">
+    <path
+       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 z"
+       id="path107" />
+  </g>
+  <g
+     id="mask-left"
+     transform="matrix(1.3333333,0,0,0.60001,111.66667,-531.42)">
+    <rect
+       transform="scale(-1,1)"
+       x="-25"
+       y="922.35999"
+       width="12"
+       height="20"
+       id="rect110" />
+  </g>
+  <g
+     id="mask-right"
+     transform="matrix(1.6,0,0,0.375,81.8,-321.63499)">
+    <rect
+       x="47"
+       y="916.35999"
+       width="10"
+       height="32"
+       id="rect113" />
+  </g>
+  <rect
+     id="mask-center"
+     x="145"
+     y="22"
+     width="12"
+     height="12" />
 </svg>
