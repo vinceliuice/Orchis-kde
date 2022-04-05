@@ -5,29 +5,29 @@
    version="1.0"
    id="svg21"
    sodipodi:docname="line.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview23"
-     pagecolor="#ffffff"
+     pagecolor="#4d4d4d"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="16.444444"
-     inkscape:cx="23.472973"
-     inkscape:cy="22.5"
+     inkscape:zoom="2.0555555"
+     inkscape:cx="-28.216217"
+     inkscape:cy="-14.594595"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg21" />
+     inkscape:current-layer="vertical-line" />
   <defs
      id="defs3">
     <style
@@ -64,39 +64,27 @@
       }</style>
   </defs>
   <g
-     transform="translate(-28,-14)"
-     id="g19">
-    <g
-       id="vertical-line"
-       transform="translate(-4.9688 .40625)">
-      <path
-         class="ColorScheme-Text"
-         d="m32.969 13.594v40h3v-40h-3z"
-         color="#31363b"
-         fill="currentColor"
-         fill-opacity=".3"
-         opacity=".01"
-         id="path5" />
-      <path
-         d="m33.969 13.594v40h1v-40h-1z"
-         id="path7"
-         style="fill:#ffffff;opacity:0.08" />
-    </g>
-    <g
-       id="horizontal-line"
-       transform="translate(-.69097 .471)">
-      <path
-         class="ColorScheme-Text"
-         d="m75.691 55.529h-40v3h40v-3z"
-         color="#31363b"
-         fill="currentColor"
-         fill-opacity=".3"
-         opacity=".01"
-         id="path12" />
-      <path
-         d="m75.691 56.529h-40v1h40v-1z"
-         id="path14"
-         style="fill:#ffffff;opacity:0.08" />
-    </g>
+     id="vertical-line"
+     transform="translate(-32.9688,-13.59375)">
+    <path
+       d="m 32.969,13.594 v 40 h 3 v -40 z"
+       opacity="0"
+       id="path5" />
+    <path
+       d="m 33.969,13.594 v 40 h 1 v -40 z"
+       id="path7"
+       style="opacity:0.08;fill:#ffffff" />
+  </g>
+  <g
+     id="horizontal-line"
+     transform="translate(-28.69097,-13.529)">
+    <path
+       d="m 75.691,55.529 h -40 v 3 h 40 z"
+       opacity="0"
+       id="path12" />
+    <path
+       d="m 75.691,56.529 h -40 v 1 h 40 z"
+       id="path14"
+       style="opacity:0.08;fill:#ffffff" />
   </g>
 </svg>

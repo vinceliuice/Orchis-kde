@@ -5,7 +5,7 @@
    version="1.0"
    id="svg21"
    sodipodi:docname="line.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,15 +19,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="16.444444"
-     inkscape:cx="23.472974"
-     inkscape:cy="22.500001"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg21" />
+     inkscape:zoom="8.222222"
+     inkscape:cx="9.2432435"
+     inkscape:cy="-2.5540541"
+     inkscape:window-width="1444"
+     inkscape:window-height="974"
+     inkscape:window-x="660"
+     inkscape:window-y="179"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="horizontal-line" />
   <defs
      id="defs3">
     <style
@@ -69,10 +69,8 @@
     <path
        class="ColorScheme-Text"
        d="m 32.969,13.594 v 40 h 3 v -40 z"
-       color="#31363b"
        fill="currentColor"
-       fill-opacity="0.3"
-       opacity="0.01"
+       opacity="0"
        id="path5" />
     <path
        d="m 33.969,13.594 v 40 h 1 v -40 z"
@@ -85,10 +83,8 @@
     <path
        class="ColorScheme-Text"
        d="m 75.691,55.529 h -40 v 3 h 40 z"
-       color="#31363b"
        fill="currentColor"
-       fill-opacity="0.3"
-       opacity="0.01"
+       opacity="0"
        id="path12" />
     <path
        d="m 75.691,56.529 h -40 v 1 h 40 z"
