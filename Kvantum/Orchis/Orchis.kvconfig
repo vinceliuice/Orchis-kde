@@ -11,7 +11,7 @@ toolbar_item_spacing=0
 toolbar_interior_spacing=2
 spread_progressbar=true
 composite=true
-menu_shadow_depth=5
+menu_shadow_depth=6
 spread_menuitems=true
 tooltip_shadow_depth=2
 splitter_width=1
@@ -71,6 +71,9 @@ dialog_button_layout=0
 intensity=1.00
 saturation=1.00
 shadowless_popup=false
+drag_from_buttons=false
+menu_blur_radius=10
+tooltip_blur_radius=6
 
 [GeneralColors]
 window.color=#F5F5F5
@@ -118,6 +121,8 @@ kinetic_scrolling=false
 scroll_jump_workaround=true
 centered_forms=false
 noninteger_translucency=false
+blur_only_active_window=false
+style_vertical_toolbars=false
 
 [PanelButtonCommand]
 frame=true
