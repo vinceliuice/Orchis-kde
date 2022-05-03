@@ -19,16 +19,20 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="2.1022727"
-     inkscape:cx="81.34054"
-     inkscape:cy="20.92973"
+     showgrid="true"
+     inkscape:zoom="0.52556818"
+     inkscape:cx="-134.14054"
+     inkscape:cy="125.57838"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
+     inkscape:current-layer="svg">
+    <inkscape:grid
+       type="xygrid"
+       id="grid953" />
+  </sodipodi:namedview>
   <defs
      id="defs81">
     <style
@@ -270,35 +274,31 @@
   </g>
   <g
      id="user-desktop"
-     transform="matrix(2,0,0,2,-122.23536,-17)">
-    <g
-       id="g2242">
-      <rect
-         id="rect1906"
-         width="32"
-         height="32"
-         x="25"
-         y="-5"
-         rx="0"
-         ry="0"
-         style="fill:none;stroke-width:0.914286" />
-      <path
-         id="path1908"
-         class="ColorScheme-Text"
-         d="m -150,42 c -4.432,0 -8,3.568 -8,8 v 24 c 0,4.432 3.568,8 8,8 h 36 c 4.432,0 8,-3.568 8,-8 V 50 c 0,-4.432 -3.568,-8 -8,-8 z m 0,2 h 36 c 3.324,0 6,2.676 6,6 v 24 c 0,3.324 -2.676,6 -6,6 h -36 c -3.324,0 -6,-2.676 -6,-6 V 50 c 0,-3.324 2.676,-6 6,-6 z"
-         transform="matrix(0.5,0,0,0.5,107,-20)"
-         fill="currentColor" />
-      <rect
-         id="rect1910"
-         width="18"
-         height="1"
-         x="32"
-         y="17"
-         rx="0.5"
-         ry="0.5"
-         class="ColorScheme-Text"
-         fill="currentColor"
-         style="opacity:1" />
-    </g>
+     transform="matrix(2,0,0,2,-124,-13)">
+    <rect
+       id="rect865"
+       width="32"
+       height="32"
+       x="25"
+       y="-5"
+       rx="0"
+       ry="0"
+       style="fill:none;stroke-width:0.914286" />
+    <path
+       id="path867"
+       d="m 32,1 c -2.216,0 -4,1.784 -4,4 v 12 c 0,2.216 1.784,4 4,4 h 18 c 2.216,0 4,-1.784 4,-4 V 5 C 54,2.784 52.216,1 50,1 Z m 0,2 h 18 c 1.108,0 2,0.892 2,2 v 12 c 0,1.108 -0.892,2 -2,2 H 32 c -1.108,0 -2,-0.892 -2,-2 V 5 c 0,-1.108 0.892,-2 2,-2 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <rect
+       id="rect869"
+       width="18"
+       height="2"
+       x="32"
+       y="15"
+       rx="1"
+       ry="1"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       style="opacity:1" />
   </g>
 </svg>
