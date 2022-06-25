@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1080"
    height="460"
    version="1.0"
    id="svg162"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata166">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,17 +35,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2047"
+     inkscape:window-width="1368"
+     inkscape:window-height="692"
      id="namedview164"
      showgrid="false"
-     inkscape:zoom="0.90806452"
-     inkscape:cx="593.93396"
-     inkscape:cy="313.65909"
+     inkscape:zoom="0.45403226"
+     inkscape:cx="1421.7051"
+     inkscape:cy="240.07105"
      inkscape:window-x="0"
-     inkscape:window-y="62"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg162" />
+     inkscape:current-layer="svg162"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs40">
     <linearGradient
@@ -605,4 +608,101 @@
        opacity="0.35"
        id="path157" />
   </g>
+  <g
+     id="mask-center"
+     transform="matrix(1.4999999,0,0,1.4999999,715.00005,-160.00598)">
+    <path
+       d="m 470,200 v 86 h 145 v -86 z"
+       id="path42-3" />
+  </g>
+  <g
+     id="mask-topleft"
+     transform="matrix(1.4999999,0,0,1.4999999,925.00003,-206.59598)">
+    <path
+       transform="translate(-140,115.06)"
+       d="m 365,50 v 66 h 76 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 50 Z"
+       id="path47-6"
+       style="opacity:0" />
+    <path
+       d="m 313,201.06 c -6.648,0 -12,5.352 -12,12 v 18 h 29 v -30 z"
+       id="path49-7" />
+  </g>
+  <g
+     id="mask-bottom"
+     transform="matrix(1.4999999,0,0,1.4999999,932.50003,-146.38899)">
+    <path
+       d="m 325,288.92 v 86 h 145 v -86 z"
+       id="path80-5"
+       style="opacity:0" />
+    <path
+       d="M 470,276.92 H 325 v 12 h 145 z"
+       id="path82-3" />
+  </g>
+  <g
+     id="mask-top"
+     transform="matrix(1.4999999,0,0,1.4999999,932.50003,-169.006)">
+    <path
+       transform="translate(-200,135)"
+       d="M 525,5 V 41 H 670 V 5 Z"
+       id="path85-5"
+       style="opacity:0" />
+    <path
+       d="m 325,176 v 30 h 145 v -30 z"
+       id="path87-6" />
+  </g>
+  <g
+     id="mask-left"
+     transform="matrix(1.4999999,0,0,1.4999999,895.18003,-155.52998)">
+    <path
+       d="m 244.88,197.02 v 86 l 76,-0.0155 v -85.985 z"
+       id="path92-2"
+       style="opacity:0" />
+    <path
+       d="m 320.88,197.02 v 86 h 29 v -86 z"
+       id="path94-9" />
+  </g>
+  <g
+     id="mask-bottomleft"
+     transform="matrix(1.4999999,0,0,1.4998383,715.00005,-159.95977)">
+    <path
+       transform="translate(0,90)"
+       d="m 441,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
+       id="path106-1" />
+    <g
+       transform="matrix(1,0,0,0.99932,140,-14.604)"
+       id="g110-2">
+      <path
+         transform="matrix(1,0,0,1.0007,-140,104.68)"
+         d="m 365,196 v 98 h 105 v -86 h -17 c -6.648,0 -12,-5.352 -12,-12 z"
+         id="path108-7"
+         style="opacity:0" />
+    </g>
+  </g>
+  <g
+     id="mask-right"
+     transform="matrix(-1.4999999,0,0,1.4999999,2162.3199,-155.52998)">
+    <path
+       d="m 244.88,197.02 v 86 l 76,-0.0155 v -85.985 z"
+       id="path132-0"
+       style="opacity:0" />
+    <path
+       d="m 320.88,197.02 v 86 h 29 v -86 z"
+       id="path134-9" />
+  </g>
+  <use
+     id="mask-topright"
+     transform="matrix(-1,0,0,1,3057.5,-3.3298e-5)"
+     width="100%"
+     height="100%"
+     xlink:href="#mask-topleft"
+     x="0"
+     y="0" />
+  <use
+     id="mask-bottomright"
+     transform="matrix(-1,0,0,1,3057.5,-3.3298e-5)"
+     width="100%"
+     height="100%"
+     xlink:href="#mask-bottomleft"
+     x="0"
+     y="0" />
 </svg>
