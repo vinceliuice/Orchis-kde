@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="list.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -34,18 +34,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="748"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
      id="namedview25"
-     showgrid="false"
-     inkscape:zoom="2.6346768"
-     inkscape:cx="23.532299"
-     inkscape:cy="16.320788"
+     showgrid="true"
+     inkscape:zoom="7.4519913"
+     inkscape:cx="24.087521"
+     inkscape:cy="21.336579"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#c2c2c2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1658" />
+  </sodipodi:namedview>
   <defs
      id="defs7386">
     <style
@@ -53,14 +59,6 @@
        type="text/css">
    .ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }
   </style>
-    <linearGradient
-       id="linearGradient5606"
-       inkscape:swatch="solid">
-      <stop
-         id="stop5608"
-         offset="0"
-         style="stop-color:currentColor;stop-opacity:1" />
-    </linearGradient>
   </defs>
   <g
      id="22-22-list-add">
@@ -121,29 +119,26 @@
        fill="none"
        style="stroke-width:1.45455" />
     <path
-       id="rect867"
-       d="m 16,-22 c -0.554,0 -1,0.446 -1,1 v 4 h -4 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 4 v 4 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -4 h 4 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 h -4 v -4 c 0,-0.554 -0.446,-1 -1,-1 z"
+       id="rect1660"
+       d="m 15,-25 v 8 H 7.0000005 v 2 H 15 v 7.9999995 h 2 V -15 h 8 v -2 h -8 v -8 z"
        class="ColorScheme-Text"
-       fill="currentColor"
-       sodipodi:nodetypes="sscssscssscssscss" />
+       fill="currentColor" />
   </g>
   <g
-     id="list-remove">
+     id="list-remove"
+     transform="translate(-8.0000005)">
     <path
        id="path1198"
        d="M 40,-32.000001 H 72.000001 V 0 H 40 Z"
        fill="none"
        style="stroke-width:1.45455" />
     <rect
-       id="rect1228"
-       width="12"
+       id="rect1671"
+       width="18"
        height="2"
-       x="50"
+       x="47"
        y="-17"
-       rx="1"
-       ry="1"
        class="ColorScheme-Text"
-       fill="currentColor"
-       style="stroke-width:0.92582" />
+       fill="currentColor" />
   </g>
 </svg>

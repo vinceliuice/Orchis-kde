@@ -1,16 +1,16 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 54 32" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
  </defs>
- <g id="22-22-nepomuk" transform="translate(0,-10)">
+ <g id="22-22-search">
   <path d="m0 10v22h22v-22z" fill="none"/>
   <path class="ColorScheme-Text" d="m9.5 14a5.5 5.5 0 0 0-5.5 5.5 5.5 5.5 0 0 0 5.5 5.5 5.5 5.5 0 0 0 3.117-0.969l3.662 3.662a1 1 0 0 0 0.721 0.307 1 1 0 0 0 1-1 1 1 0 0 0-0.303-0.717l-3.67-3.67a5.5 5.5 0 0 0 0.973-3.113 5.5 5.5 0 0 0-5.5-5.5zm0 2a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5z" fill="currentColor"/>
  </g>
- <g id="nepomuk" transform="translate(0,-10)">
+ <g id="search">
   <path d="m22 0v32h32v-32z" fill="none" stroke-width="1.4546"/>
   <path class="ColorScheme-Text" d="m34.894 5.0216a8.5 8.5 0 0 0-5.4043 2.4688 8.5 8.5 0 0 0 0 12.021 8.5 8.5 0 0 0 11.266 0.6543c0.0155 0.01783 0.03185 0.03576 0.04883 0.05273l6.3633 6.3633c0.39174 0.39174 1.0223 0.39174 1.4141 0 0.39174-0.39174 0.39174-1.0223 0-1.4141l-6.3633-6.3633c-0.01502-0.01502-0.03118-0.0291-0.04687-0.04297a8.5 8.5 0 0 0-0.66016-11.271 8.5 8.5 0 0 0-6.6172-2.4688zm0.60547 1.9785a6.5 6.5 0 0 1 4.5977 1.9043 6.5 6.5 0 0 1 0 9.1934 6.5 6.5 0 0 1-9.1934 0 6.5 6.5 0 0 1 0-9.1934 6.5 6.5 0 0 1 4.5957-1.9043z" fill="currentColor"/>
  </g>
- <g id="16-16-nepomuk" transform="translate(0,-10)">
+ <g id="16-16-search">
   <path d="m-19 13v16h16v-16z" fill="none" stroke-width=".72727"/>
   <path class="ColorScheme-Text" d="m-12.5 14a5.5 5.5 0 0 0-5.5 5.5 5.5 5.5 0 0 0 5.5 5.5 5.5 5.5 0 0 0 3.117-0.969l3.662 3.662a1 1 0 0 0 0.721 0.307 1 1 0 0 0 1-1 1 1 0 0 0-0.303-0.717l-3.67-3.67a5.5 5.5 0 0 0 0.973-3.113 5.5 5.5 0 0 0-5.5-5.5zm0 2a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5z" fill="currentColor"/>
  </g>

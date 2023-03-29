@@ -1,25 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1">
- <g>
-  <g id="border-top" transform="matrix(0.1444413,0,0,1,7.6889401,-99.922096)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
-  </g>
-  <rect id="border-center" style="opacity:0.6;fill:#ffffff;fill-opacity:0" width="64.25" height="61.5" x="33.5" y="33.5"/>
-  <rect id="border-topleft" style="opacity:0.6;fill:#ffffff;fill-opacity:0" width="8.582" height="9.211" x="-10.87" y="-11.23" transform="scale(-1,-1)"/>
-  <rect id="border-bottomleft" style="opacity:0.59999999999999998;fill:#8b8b8b;fill-opacity:0" width="8.582" height="9.211" x="-10.87" y="-126.84" transform="scale(-1,-1)"/>
-  <rect id="border-topright" style="opacity:0.6;fill:#ffffff;fill-opacity:0" width="8.582" height="9.211" x="-126.13" y="-11.23" transform="scale(-1,-1)"/>
-  <rect id="border-bottomright" style="opacity:0.59999999999999998;fill:#8b8b8b;fill-opacity:0" width="8.582" height="9.211" x="-126.13" y="-126.84" transform="scale(-1,-1)"/>
-  <g id="border-left" transform="matrix(0,-0.1444413,1,0,-100.15432,123.01818)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
-  </g>
-  <g id="border-bottom" transform="matrix(-0.1444413,0,0,-1,118.89686,231.56855)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
-  </g>
-  <g id="border-right" transform="matrix(0,0.1444413,-1,0,227.80078,12.163813)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
-  </g>
+<svg width="128" height="128" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <g id="border-top" transform="matrix(.14444 0 0 1 7.6889 -99.922)">
+  <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" fill="currentColor" opacity=".15"/>
+  <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
+ </g>
+ <rect id="border-center" x="33.5" y="33.5" width="64.25" height="61.5" fill-opacity="0" opacity=".6"/>
+ <rect id="border-topleft" transform="scale(-1)" x="-10.873" y="-11.226" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+ <rect id="border-bottomleft" transform="scale(-1)" x="-10.873" y="-126.84" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+ <rect id="border-topright" transform="scale(-1)" x="-126.13" y="-11.226" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+ <rect id="border-bottomright" transform="scale(-1)" x="-126.13" y="-126.84" width="8.582" height="9.2107" fill-opacity="0" opacity=".6"/>
+ <g id="border-left" transform="matrix(0 -.14444 1 0 -100.15 123.02)">
+  <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" fill="currentColor" opacity=".15"/>
+  <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
+ </g>
+ <g id="border-bottom" transform="matrix(-.14444 0 0 -1 118.9 231.57)">
+  <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" fill="currentColor" opacity=".15"/>
+  <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
+ </g>
+ <g id="border-right" transform="matrix(0 .14444 -1 0 227.8 12.164)">
+  <rect class="ColorScheme-Text" transform="scale(1,-1)" x="16" y="-109" width="747.71" height="1" fill="currentColor" opacity=".15"/>
+  <rect transform="scale(1,-1)" x="16" y="-110" width="747.71" height="1" opacity="0"/>
  </g>
 </svg>
