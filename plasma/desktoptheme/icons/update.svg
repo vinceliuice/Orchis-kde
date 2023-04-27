@@ -1,33 +1,251 @@
-<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
- </defs>
- <g id="update-none">
-  <rect x="-.00091978" y="-.0035561" width="22" height="22" fill="#000000" opacity=".001"/>
-  <g class="success" transform="translate(-702 234)" enable-background="new">
-   <path class="success" transform="translate(241 -497)" d="m471.88 267c-1.3453 0.0265-2.6952 0.44583-3.8828 1.2774-3.1668 2.2174-3.9323 6.5597-1.7148 9.7266 2.2174 3.1668 6.5578 3.9323 9.7246 1.7148 2.2774-1.5946 3.312-4.2822 2.8906-6.8535-0.0982-0.6008-0.285-1.16-0.52734-1.7012l-6.3516 7.2578-0.6875 0.8125-0.78124-0.75-3-3c-0.37639-0.37633-0.37636-1.0611 0-1.4375 0.37636-0.37635 1.0612-0.37638 1.4375 0l2.25 2.25 6.0234-6.8926c-1.0768-1.2413-2.5092-2.0303-4.043-2.3008-0.44106-0.0778-0.88946-0.11236-1.3379-0.10352z" color="#000000" enable-background="accumulate" fill="#4caf50"/>
-   <rect x="705" y="-231" width="16" height="16" rx=".14409" ry=".15129" color="#bebebe" enable-background="new" fill="none"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg41"
+   sodipodi:docname="update.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.3636364"
+     inkscape:cx="28.152542"
+     inkscape:cy="13.423729"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg41" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+  </defs>
+  <g
+     id="update-none">
+    <rect
+       id="rect1018"
+       width="32"
+       height="32"
+       x="-5"
+       y="30"
+       style="fill:none" />
+    <path
+       id="path1666"
+       d="M 11,34 A 12,12 0 0 0 -1,46 12,12 0 0 0 11,58 12,12 0 0 0 23,46 12,12 0 0 0 11,34 Z m 0,2 A 10,10 0 0 1 21,46 10,10 0 0 1 11,56 10,10 0 0 1 1,46 10,10 0 0 1 11,36 Z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       id="rect1626"
+       d="m 40.780174,17.202582 -0.0014,11.000206 h -4.999466 v 1.999787 h 4.999466 1.999786 v -1.999787 l 0.0014,-11.000206 z"
+       transform="rotate(45)"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
- </g>
- <g id="update-low">
-  <rect x="24" y="-.0022146" width="22" height="22" fill="#000000" opacity=".001"/>
-  <g transform="translate(-338 294)" enable-background="new">
-   <path transform="translate(281 -643)" d="m92 352.72c-0.73799 0.72824-1.4448 1.5567-2.1914 2.2812h-2.8086v2.8086c-0.72465 0.74666-1.5529 1.4534-2.2812 2.1914 0.72849 0.73824 1.5565 1.4735 2.2812 2.2227v2.7773h2.8066c0.74736 0.72494 1.4547 1.5523 2.1934 2.2812 0.73886-0.7291 1.4748-1.5562 2.2246-2.2812h2.7754v-2.7773c0.72478-0.74913 1.5527-1.4844 2.2812-2.2227-0.72829-0.73805-1.5566-1.4447-2.2812-2.1914v-2.8086h-2.7773c-0.74913-0.72478-1.4845-1.5527-2.2227-2.2812zm0 3.4336 2.5625 3.8438h-1.5625v4.0039h-2v-4.0039h-1.5625c1.1661-1.7024 2.2452-3.3558 2.5625-3.8438z" fill="#8eb9ec"/>
-   <rect x="365" y="-291" width="16" height="16" color="#bebebe" fill="none"/>
+  <g
+     id="update-low">
+    <rect
+       id="rect1636"
+       width="32"
+       height="32"
+       x="27"
+       y="30"
+       style="fill:none" />
+    <path
+       id="path1638"
+       class="ColorScheme-Text"
+       d="M 43,34 A 12,12 0 0 0 31,46 12,12 0 0 0 43,58 12,12 0 0 0 47.763672,56.998047 4.5,4.5 0 0 1 47.042969,55.115234 10,10 0 0 1 43,56 10,10 0 0 1 33,46 10,10 0 0 1 43,36 10,10 0 0 1 53,46 10,10 0 0 1 52.115234,50.042969 4.5,4.5 0 0 1 54,50.757812 12,12 0 0 0 55,46 12,12 0 0 0 43,34 Z"
+       fill="currentColor" />
+    <path
+       id="rect1647"
+       d="m 57.982756,-2.8284271 v 1.99978634 5.99935906 h 1.999786 V 0.5855728 l 7.192602,7.1926018 1.414214,-1.4142136 -7.192602,-7.19260176 h 4.585146 V -2.8284271 Z"
+       transform="rotate(45)"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <circle
+       id="path1706"
+       cx="51.5"
+       cy="54.5"
+       r="3.5"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       style="opacity:0.35" />
   </g>
- </g>
- <g id="update-medium" transform="translate(0 28.717)">
-  <rect x="24" y="-.0022146" width="22" height="22" fill="#000000" opacity=".001"/>
-  <g transform="translate(-338 294)" enable-background="new">
-   <path transform="translate(281 -643)" d="m92 352.72c-0.73799 0.72824-1.4448 1.5567-2.1914 2.2812h-2.8086v2.8086c-0.72465 0.74666-1.5529 1.4534-2.2812 2.1914 0.72849 0.73824 1.5565 1.4735 2.2812 2.2227v2.7773h2.8066c0.74736 0.72494 1.4547 1.5523 2.1934 2.2812 0.73886-0.7291 1.4748-1.5562 2.2246-2.2812h2.7754v-2.7773c0.72478-0.74913 1.5527-1.4844 2.2812-2.2227-0.72829-0.73805-1.5566-1.4447-2.2812-2.1914v-2.8086h-2.7773c-0.74913-0.72478-1.4845-1.5527-2.2227-2.2812zm0 3.4336 2.5625 3.8438h-1.5625v4.0039h-2v-4.0039h-1.5625c1.1661-1.7024 2.2452-3.3558 2.5625-3.8438z" fill="#5294e2"/>
-   <rect x="365" y="-291" width="16" height="16" color="#bebebe" fill="none"/>
+  <g
+     id="update-medium"
+     transform="translate(32)">
+    <rect
+       id="rect1717"
+       width="32"
+       height="32"
+       x="27"
+       y="30"
+       style="fill:none" />
+    <path
+       id="path1719"
+       class="ColorScheme-Text"
+       d="M 43,34 A 12,12 0 0 0 31,46 12,12 0 0 0 43,58 12,12 0 0 0 47.763672,56.998047 4.5,4.5 0 0 1 47.042969,55.115234 10,10 0 0 1 43,56 10,10 0 0 1 33,46 10,10 0 0 1 43,36 10,10 0 0 1 53,46 10,10 0 0 1 52.115234,50.042969 4.5,4.5 0 0 1 54,50.757812 12,12 0 0 0 55,46 12,12 0 0 0 43,34 Z"
+       fill="currentColor" />
+    <path
+       id="path1721"
+       d="m 57.982756,-2.8284271 v 1.99978634 5.99935906 h 1.999786 V 0.5855728 l 7.192602,7.1926018 1.414214,-1.4142136 -7.192602,-7.19260176 h 4.585146 V -2.8284271 Z"
+       transform="rotate(45)"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <circle
+       id="circle1723"
+       cx="51.5"
+       cy="54.5"
+       r="3.5"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       style="opacity:0.65" />
   </g>
- </g>
- <g id="update-high" transform="translate(0 56.361)">
-  <rect x="24" y="-.0022146" width="22" height="22" fill="#000000" opacity=".001"/>
-  <g transform="translate(-338 294)" enable-background="new">
-   <path transform="translate(281 -643)" d="m92 352.72c-0.73799 0.72824-1.4448 1.5567-2.1914 2.2812h-2.8086v2.8086c-0.72465 0.74666-1.5529 1.4534-2.2812 2.1914 0.72849 0.73824 1.5565 1.4735 2.2812 2.2227v2.7773h2.8066c0.74736 0.72494 1.4547 1.5523 2.1934 2.2812 0.73886-0.7291 1.4748-1.5562 2.2246-2.2812h2.7754v-2.7773c0.72478-0.74913 1.5527-1.4844 2.2812-2.2227-0.72829-0.73805-1.5566-1.4447-2.2812-2.1914v-2.8086h-2.7773c-0.74913-0.72478-1.4845-1.5527-2.2227-2.2812zm0 3.4336 2.5625 3.8438h-1.5625v4.0039h-2v-4.0039h-1.5625c1.1661-1.7024 2.2452-3.3558 2.5625-3.8438z" fill="#226fcb"/>
-   <rect x="365" y="-291" width="16" height="16" color="#bebebe" fill="none"/>
+  <g
+     id="update-high"
+     transform="translate(64)">
+    <rect
+       id="rect1727"
+       width="32"
+       height="32"
+       x="27"
+       y="30"
+       style="fill:none" />
+    <path
+       id="path1729"
+       class="ColorScheme-Text"
+       d="M 43,34 A 12,12 0 0 0 31,46 12,12 0 0 0 43,58 12,12 0 0 0 47.763672,56.998047 4.5,4.5 0 0 1 47.042969,55.115234 10,10 0 0 1 43,56 10,10 0 0 1 33,46 10,10 0 0 1 43,36 10,10 0 0 1 53,46 10,10 0 0 1 52.115234,50.042969 4.5,4.5 0 0 1 54,50.757812 12,12 0 0 0 55,46 12,12 0 0 0 43,34 Z"
+       fill="currentColor" />
+    <path
+       id="path1731"
+       d="m 57.982756,-2.8284271 v 1.99978634 5.99935906 h 1.999786 V 0.5855728 l 7.192602,7.1926018 1.414214,-1.4142136 -7.192602,-7.19260176 h 4.585146 V -2.8284271 Z"
+       transform="rotate(45)"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <circle
+       id="circle1733"
+       cx="51.5"
+       cy="54.5"
+       r="3.5"
+       fill="currentColor"
+       class="ColorScheme-Highlight" />
   </g>
- </g>
+  <g
+     id="22-22-update-none">
+    <rect
+       x="0"
+       y="0"
+       width="22"
+       height="22"
+       id="rect5"
+       style="fill:none" />
+    <path
+       id="rect872"
+       d="M 13.952907,8.2631576 10.417373,11.798692 8.2960533,9.6773706 6.8818394,11.091585 l 2.1213207,2.121319 1.4142129,1.414215 1.414214,-1.414215 3.535534,-3.5355334 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       id="path1983"
+       d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-update-low">
+    <rect
+       x="22"
+       y="0"
+       width="22"
+       height="22"
+       id="rect882"
+       style="fill:none" />
+    <path
+       d="m 33,7 -3,3 h 2 v 5 h 2 v -5 h 2 z"
+       id="path976"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <circle
+       id="path987"
+       cx="38.5"
+       cy="16.5"
+       r="2.5"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       style="opacity:0.35" />
+    <path
+       id="path2058"
+       class="ColorScheme-Text"
+       d="m 33,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 2.654297,-0.472656 A 3.5,3.5 0 0 1 35.009766,16.642578 6,6 0 0 1 33,17 a 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 6,6 0 0 1 -0.355469,2.003906 3.5,3.5 0 0 1 1.884766,0.646485 A 8,8 0 0 0 41,11 8,8 0 0 0 33,3 Z"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-update-medium">
+    <rect
+       x="44"
+       y="0"
+       width="22"
+       height="22"
+       id="rect994"
+       style="fill:none" />
+    <path
+       d="m 55,7 -3,3 h 2 v 5 h 2 v -5 h 2 z"
+       id="path998"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <circle
+       id="circle1000"
+       cx="60.5"
+       cy="16.5"
+       r="2.5"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       style="opacity:0.65" />
+    <path
+       id="path2068"
+       class="ColorScheme-Text"
+       d="m 55,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 2.654297,-0.472656 A 3.5,3.5 0 0 1 57.009766,16.642578 6,6 0 0 1 55,17 a 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 6,6 0 0 1 -0.355469,2.003906 3.5,3.5 0 0 1 1.884766,0.646485 A 8,8 0 0 0 63,11 8,8 0 0 0 55,3 Z"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-update-high">
+    <rect
+       x="66"
+       y="0"
+       width="22"
+       height="22"
+       id="rect1004"
+       style="fill:none" />
+    <path
+       d="m 77,7 -3,3 h 2 v 5 h 2 v -5 h 2 z"
+       id="path1008"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <circle
+       id="circle1010"
+       cx="82.5"
+       cy="16.5"
+       r="2.5"
+       fill="currentColor"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path2070"
+       class="ColorScheme-Text"
+       d="m 77,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 2.654297,-0.472656 A 3.5,3.5 0 0 1 79.009766,16.642578 6,6 0 0 1 77,17 a 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 6,6 0 0 1 -0.355469,2.003906 3.5,3.5 0 0 1 1.884766,0.646485 A 8,8 0 0 0 85,11 8,8 0 0 0 77,3 Z"
+       fill="currentColor" />
+  </g>
 </svg>
