@@ -1,20 +1,86 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
- </defs>
- <g id="22-22-start-here-kde" transform="translate(-29,-1)" class="ColorScheme-Text" fill="currentColor">
-  <circle cx="40" cy="12" r="11" opacity=".15" style="paint-order:normal"/>
-  <g transform="translate(28,-276)">
-   <path transform="translate(0,276)" d="m12 6a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" class="ColorScheme-Text" fill="currentColor" opacity=".85" style="paint-order:fill markers stroke"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="start.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="42.909091"
+     inkscape:cx="-16.36017"
+     inkscape:cy="10.195975"
+     inkscape:window-width="3840"
+     inkscape:window-height="2028"
+     inkscape:window-x="0"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23">
+    <inkscape:grid
+       type="xygrid"
+       id="grid185" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+  </defs>
+  <g
+     id="22-22-start-here-kde"
+     transform="translate(-29,-1)"
+     class="ColorScheme-Text"
+     fill="currentColor">
+    <circle
+       cx="40"
+       cy="12"
+       r="11"
+       id="circle5"
+       style="opacity:0.15" />
+    <path
+       d="m 40,6 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,2 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       opacity="0.85"
+       style="paint-order:fill markers stroke"
+       id="path7" />
   </g>
- </g>
- <g id="start-here-kde" transform="translate(-3.8457 -1.675)">
-  <rect x="-35.154" y="-3.325" width="32" height="32" color="#bebebe" fill="none"/>
-  <g transform="translate(-59.154 .67501)" class="ColorScheme-Text" fill="currentColor">
-   <circle cx="40" cy="12" r="13" opacity=".15" style="paint-order:normal"/>
-   <g transform="translate(28,-276)">
-    <path transform="translate(0,276)" d="m12 6a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" class="ColorScheme-Text" fill="currentColor" opacity=".85" style="paint-order:fill markers stroke"/>
-   </g>
+  <g
+     id="start-here-kde"
+     transform="translate(-3.8457 -1.675)">
+    <rect
+       x="-35.154"
+       y="-3.325"
+       width="32"
+       height="32"
+       fill="none"
+       id="rect12" />
+    <circle
+       cx="-19.154301"
+       cy="12.67531"
+       r="15"
+       opacity="0.15"
+       id="circle14"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       d="m -19.154,3.675 a 9.00001,9.00001 0 0 0 -9.00001,9.00001 9.00001,9.00001 0 0 0 9.00001,9.00001 9.00001,9.00001 0 0 0 9.00001,-9.00001 A 9.00001,9.00001 0 0 0 -19.154,3.675 Z m 0,3 a 6.0000067,6.0000067 0 0 1 6.000007,6.00001 A 6.0000067,6.0000067 0 0 1 -19.154,18.67502 6.0000067,6.0000067 0 0 1 -25.154007,12.67501 6.0000067,6.0000067 0 0 1 -19.154,6.675 Z"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       opacity="0.85"
+       id="path16" />
   </g>
- </g>
 </svg>

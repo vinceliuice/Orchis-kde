@@ -5,7 +5,7 @@
    version="1.0"
    id="svg1879"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,16 +20,56 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="0.26915677"
-     inkscape:cx="481.13225"
-     inkscape:cy="371.53069"
-     inkscape:window-width="1368"
-     inkscape:window-height="692"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1879" />
+     showgrid="true"
+     inkscape:zoom="1.0766271"
+     inkscape:cx="791.36037"
+     inkscape:cy="204.34188"
+     inkscape:window-width="3093"
+     inkscape:window-height="1651"
+     inkscape:window-x="647"
+     inkscape:window-y="237"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1879"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid284" />
+    <sodipodi:guide
+       position="40,181"
+       orientation="1,0"
+       id="guide382"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="113,30"
+       orientation="0,-1"
+       id="guide384"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="114,251"
+       orientation="0,-1"
+       id="guide386"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="325,163"
+       orientation="1,0"
+       id="guide388"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="400,176"
+       orientation="1,0"
+       id="guide392"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="685,230"
+       orientation="1,0"
+       id="guide394"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1105,204"
+       orientation="1,0"
+       id="guide398"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs1757">
     <linearGradient
@@ -214,11 +254,12 @@
      transform="translate(140,-121.063)">
     <path
        transform="translate(-140,115.06)"
-       d="m 365,50 v 66 h 76 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 50 Z"
+       d="M 400,65.003 V 116 l 41,0 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 65.003 Z"
        fill="url(#radialGradient969)"
        opacity="0.5"
        id="path1764"
-       style="fill:url(#radialGradient969)" />
+       style="fill:url(#radialGradient969)"
+       sodipodi:nodetypes="cccssccc" />
     <g
        transform="translate(0,1)"
        id="g1772">
@@ -243,11 +284,12 @@
      id="decoration-right"
      transform="matrix(-1,0,0,1,604.88,-87)">
     <path
-       d="m 244.88,197 v 86 h 76 v -86 z"
+       d="m 279.88,197 v 86 h 41 v -86 z"
        fill="url(#linearGradient1126)"
        opacity="0.5"
        id="path1775"
-       style="fill:url(#linearGradient2108)" />
+       style="fill:url(#linearGradient2108)"
+       sodipodi:nodetypes="ccccc" />
     <path
        transform="translate(-255.12,76)"
        d="m 576,121 v 86 h 29 v -86 z"
@@ -264,11 +306,12 @@
      id="decoration-bottom"
      transform="translate(-215,-81)">
     <path
-       d="m 325,289 v 86 h 145 v -86 z"
+       d="m 325,289 v 72 h 145 v -72 z"
        fill="url(#linearGradient5688)"
        opacity="0.5"
        id="path1782"
-       style="fill:url(#linearGradient5688)" />
+       style="fill:url(#linearGradient5688)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="M 470,277 H 325 v 12 h 145 z"
        fill="#212121"
@@ -280,11 +323,12 @@
      transform="translate(-215,-96)">
     <path
        transform="translate(215,90)"
-       d="M 110,50 V 86 H 255 V 50 Z"
+       d="M 110,65 V 86 H 255 V 65 Z"
        fill="url(#linearGradient6612)"
        opacity="0.5"
        id="path1787"
-       style="fill:url(#linearGradient6612)" />
+       style="fill:url(#linearGradient6612)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 325,176 v 30 h 145 v -30 z"
        fill="#212121"
@@ -304,11 +348,12 @@
      id="decoration-left"
      transform="translate(-239.88,-87)">
     <path
-       d="m 244.88,197 v 86 h 76 v -86 z"
+       d="m 279.88,197 v 86 h 41 v -86 z"
        fill="url(#linearGradient1126)"
        opacity="0.5"
        id="path1796"
-       style="fill:url(#linearGradient1126)" />
+       style="fill:url(#linearGradient1126)"
+       sodipodi:nodetypes="ccccc" />
     <path
        transform="translate(-255.12,76)"
        d="m 576,121 v 86 h 29 v -86 z"
@@ -325,11 +370,12 @@
      id="decoration-inactive-bottom"
      transform="translate(145,-80.922)">
     <path
-       d="m 325,288.92 v 86 h 145 v -86 z"
+       d="m 325,288.92 v 72.002 H 470 V 288.92 Z"
        fill="url(#linearGradient5688-2)"
        opacity="0.5"
        id="path1803"
-       style="fill:url(#linearGradient5688-2)" />
+       style="fill:url(#linearGradient5688-2)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="M 470,276.92 H 325 v 12 h 145 z"
        fill="#1c1c1c"
@@ -341,11 +387,12 @@
      transform="translate(145,-96)">
     <path
        transform="translate(-200,135)"
-       d="M 525,5 V 41 H 670 V 5 Z"
+       d="M 525,20 V 41 H 670 V 20 Z"
        fill="url(#linearGradient6612-5)"
        opacity="0.5"
        id="path1808"
-       style="fill:url(#linearGradient6612-5)" />
+       style="fill:url(#linearGradient6612-5)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 325,176 v 30 h 145 v -30 z"
        fill="#1c1c1c"
@@ -360,11 +407,12 @@
      id="decoration-inactive-left"
      transform="translate(120.12,-87.0155)">
     <path
-       d="m 244.88,197.02 v 86 l 76,-0.0155 v -85.985 z"
+       d="m 279.88,197.02 v 86 l 41,-0.0155 v -85.985 z"
        fill="url(#linearGradient1389)"
        opacity="0.5"
        id="path1815"
-       style="fill:url(#linearGradient2110)" />
+       style="fill:url(#linearGradient2110)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        fill="#1c1c1c"
@@ -389,11 +437,12 @@
        id="g1828">
       <path
          transform="matrix(1,0,0,1.0007,220,104.74)"
-         d="m 5,196 v 98 H 110 V 208 H 93 c -6.648,0 -12,-5.352 -12,-12 z"
+         d="m 40,196 v 83.99276 l 70,0 V 208 H 93 c -6.648,0 -12,-5.352 -12,-12 z"
          fill="url(#radialGradient965)"
          opacity="0.5"
          id="path1824"
-         style="fill:url(#radialGradient965)" />
+         style="fill:url(#radialGradient965)"
+         sodipodi:nodetypes="ccccscc" />
       <g
          transform="translate(-20,24)"
          id="g1826" />
@@ -413,11 +462,12 @@
        id="g1837">
       <path
          transform="matrix(1,0,0,1.0007,-140,104.68)"
-         d="m 365,196 v 98 h 105 v -86 h -17 c -6.648,0 -12,-5.352 -12,-12 z"
+         d="m 400,196 v 83.98972 h 70 V 208 h -17 c -6.648,0 -12,-5.352 -12,-12 z"
          fill="url(#radialGradient967)"
          opacity="0.5"
          id="path1833"
-         style="fill:url(#radialGradient967)" />
+         style="fill:url(#radialGradient967)"
+         sodipodi:nodetypes="ccccscc" />
       <g
          transform="translate(-20,24)"
          id="g1835" />
@@ -426,52 +476,52 @@
   <rect
      id="shadow-hint-top-margin"
      x="174"
-     y="44"
+     y="59"
      width="4"
-     height="36"
+     height="21"
      fill="#ff00ff" />
   <rect
      id="shadow-hint-bottom-margin"
      x="175"
      y="208"
      width="4"
-     height="86"
+     height="72"
      fill="#ff00ff" />
   <rect
      id="shadow-hint-right-margin"
      x="284"
      y="140"
-     width="76"
+     width="41"
      height="4"
      fill="#ff00ff" />
   <rect
      id="shadow-hint-left-margin"
-     x="5"
+     x="40"
      y="134"
-     width="76"
+     width="41"
      height="4"
      fill="#ff00ff" />
   <rect
      id="hint-top-margin"
      x="186"
-     y="44"
+     y="59"
      width="4"
-     height="66"
+     height="51"
      fill="#00ff29" />
   <rect
      id="hint-bottom-margin"
      x="187"
      y="196"
      width="4"
-     height="98"
+     height="84"
      fill="#00ff29" />
   <rect
      id="hint-right-margin"
      transform="rotate(90)"
      x="129"
-     y="-360"
+     y="-325"
      width="4"
-     height="105"
+     height="70.000092"
      fill="#00ff29" />
   <rect
      id="hint-left-margin"
@@ -479,18 +529,19 @@
      x="126"
      y="-110"
      width="4"
-     height="105"
+     height="70"
      fill="#00ff29" />
   <g
      id="decoration-topleft"
      transform="matrix(-1,0,0,1,535,-121.062)">
     <path
        transform="matrix(-1,0,0,1,535,115.06)"
-       d="m 5,50 v 66 H 81 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 50 Z"
+       d="M 40,65.002 V 116 H 81 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 65.002 Z"
        fill="url(#radialGradient1306)"
        opacity="0.5"
        id="path1848"
-       style="fill:url(#radialGradient1306)" />
+       style="fill:url(#radialGradient1306)"
+       sodipodi:nodetypes="cccssccc" />
     <g
        transform="translate(250)"
        id="g1858">
@@ -521,11 +572,12 @@
      id="decoration-inactive-right"
      transform="matrix(-1,0,0,1,964.88,-87.0155)">
     <path
-       d="m 244.88,197.02 v 86 l 76,-0.0155 v -85.985 z"
+       d="m 279.88,197.02 v 86 l 41,-0.0155 v -85.985 z"
        fill="url(#linearGradient1389)"
        opacity="0.5"
        id="path1861"
-       style="fill:url(#linearGradient1389)" />
+       style="fill:url(#linearGradient1389)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        fill="#1c1c1c"
@@ -593,9 +645,10 @@
      transform="translate(560,-121.05999)">
     <path
        transform="translate(-140,115.06)"
-       d="m 365,50 v 66 h 76 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 50 Z"
+       d="M 400,64.99999 V 116 l 41,0 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 64.99999 Z"
        id="path47-6"
-       style="opacity:0" />
+       style="opacity:0"
+       sodipodi:nodetypes="cccssccc" />
     <path
        d="m 313,201.05999 c -6.648,0 -12,5.352 -12,12 v 18 h 29 v -30 z"
        id="path49-7" />
@@ -604,9 +657,10 @@
      id="mask-bottom"
      transform="translate(565,-80.921993)">
     <path
-       d="m 325,288.92 v 86 h 145 v -86 z"
+       d="m 325,288.92 v 72.00199 H 470 V 288.92 Z"
        id="path80-5"
-       style="opacity:0" />
+       style="opacity:0"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="M 470,276.92 H 325 v 12 h 145 z"
        id="path82-3" />
@@ -616,9 +670,10 @@
      transform="translate(565,-96)">
     <path
        transform="translate(-200,135)"
-       d="M 525,5 V 41 H 670 V 5 Z"
+       d="M 525,19.999978 V 41 H 670 V 19.999978 Z"
        id="path85-5"
-       style="opacity:0" />
+       style="opacity:0"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 325,176 v 30 h 145 v -30 z"
        id="path87-6" />
@@ -627,9 +682,10 @@
      id="mask-left"
      transform="translate(540.12,-87.01599)">
     <path
-       d="m 244.88,197.02 v 86 l 76,-0.0155 v -85.985 z"
+       d="m 279.88,197.02 v 86 l 41,-0.0155 v -85.985 z"
        id="path92-2"
-       style="opacity:0" />
+       style="opacity:0"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        id="path94-9" />
@@ -642,17 +698,19 @@
        d="m 441,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
        id="path106-1" />
     <path
-       d="m 365,286 v 98 h 105 v -86 h -17 c -6.648,0 -12,-5.352 -12,-12 z"
+       d="m 400,286 v 84 h 70 v -72 h -17 c -6.648,0 -12,-5.352 -12,-12 z"
        id="path108-7"
-       style="fill:none" />
+       style="fill:none"
+       sodipodi:nodetypes="ccccscc" />
   </g>
   <g
      id="mask-right"
      transform="matrix(-1,0,0,1,1384.88,-87.01599)">
     <path
-       d="m 244.88,197.02 v 86 l 76,-0.0155 v -85.985 z"
+       d="m 279.88,197.02 v 86 l 41,-0.0155 v -85.985 z"
        id="path132-0"
-       style="opacity:0" />
+       style="opacity:0"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        id="path134-9" />

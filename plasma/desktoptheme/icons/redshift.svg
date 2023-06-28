@@ -5,7 +5,7 @@
    version="1.1"
    id="svg21"
    sodipodi:docname="redshift.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,16 +20,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="3.7966102"
-     inkscape:cy="5.4237288"
-     inkscape:window-width="1368"
-     inkscape:window-height="710"
+     showgrid="true"
+     inkscape:zoom="10.43"
+     inkscape:cx="51.198466"
+     inkscape:cy="11.840844"
+     inkscape:window-width="3840"
+     inkscape:window-height="2028"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="64"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg21" />
+     inkscape:current-layer="svg21">
+    <inkscape:grid
+       type="xygrid"
+       id="grid496" />
+  </sodipodi:namedview>
   <defs
      id="defs3">
     <style
@@ -71,13 +75,13 @@
        fill="none"
        id="rect12" />
     <path
+       id="path14"
        class="ColorScheme-Text"
-       d="m 39,-1 c -3.8958,0 -7,3.3843 -7,7.4492 0,2.3928 1.0557,4.5368 2.7539,5.9043 0.33769,0.2728 0.67659,0.55117 0.89453,0.80859 0.2182,0.25773 0.29297,0.44197 0.29297,0.61328 v 0.02344 l 0.10547,2.2012 h 5.8984 l 0.12305,-2.1719 v -0.0039 c 0.01982,-0.40853 0.52573,-0.94242 1.1797,-1.4707 h -0.002 c 1.6982,-1.3675 2.754,-3.5116 2.754,-5.9043 0,-4.0649 -3.1042,-7.4492 -7,-7.4492 z m 0,2 c 2.7345,0 5,2.3891 5,5.4492 0,1.8072 -0.78773,3.3652 -2.0078,4.3477 h -0.002 c -0.67541,0.54561 -1.8401,1.4111 -1.918,2.9219 v 0.0039 l -0.01753,0.27735 h -2.1016 l -0.01172,-0.27344 v 0.04883 c 0,-0.79119 -0.37197,-1.439 -0.76758,-1.9062 -0.39561,-0.46727 -0.83679,-0.80789 -1.1641,-1.0723 h -0.002 c -1.22,-0.9825 -2.0078,-2.5404 -2.0078,-4.3477 0,-3.0601 2.2655,-5.4492 5,-5.4492 z"
-       fill="currentColor"
-       id="path14" />
+       d="M 39 -1 C 34.547681 -1 31 2.3843308 31 6.4492188 C 31 8.8420116 32.205695 10.986019 34.146484 12.353516 C 34.532414 12.626313 34.920848 12.904692 35.169922 13.162109 C 35.419293 13.419839 35.503906 13.604081 35.503906 13.775391 L 35.503906 13.798828 L 36 16 L 38 16 L 38 8.4140625 L 35.292969 5.7070312 L 36.707031 4.2929688 L 39 6.5859375 L 41.292969 4.2929688 L 42.707031 5.7070312 L 40 8.4140625 L 40 16 L 42 16 L 42.505859 13.828125 L 42.505859 13.824219 C 42.528499 13.41593 43.106762 12.881489 43.853516 12.353516 L 43.855469 12.353516 C 45.795472 10.985972 47 8.8413835 47 6.4492188 C 47 2.3843308 43.452319 -1 39 -1 z "
+       fill="currentColor" />
     <path
        class="ColorScheme-Text"
-       d="m 36,18 v 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -1 h -5 z m 1,4 v 1.0098 C 37,23.55784 37.446,24 38,24 h 2 c 0.554,0 1,-0.44216 1,-0.99023 v -1.0098 h -3 z"
+       d="m 36,17 v 2 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -2 h -5 z m 1,4.00003 V 23.0098 C 37,23.55784 37.446,24 38,24 h 2 c 0.554,0 1,-0.44216 1,-0.99023 V 21 h -3 z"
        fill="currentColor"
        id="path16" />
   </g>
