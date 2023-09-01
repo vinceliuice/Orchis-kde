@@ -6,10 +6,9 @@
    version="1.1"
    id="svg672"
    sodipodi:docname="kmail.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -26,7 +25,7 @@
      inkscape:cx="33.485701"
      inkscape:cy="11.074011"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -50,25 +49,4 @@
        d="M 472 140 C 470.892 140 470 140.892 470 142 L 470 150 C 470 151.108 470.892 152 472 152 L 484 152 C 485.108 152 486 151.108 486 150 L 486 142 C 486 140.892 485.108 140 484 140 L 472 140 z M 472 142 L 484 142 L 484 144 L 484 150 L 472 150 L 472 145.39258 L 477.99805 147 L 483.99805 145.39258 L 483.99805 143.32227 L 477.99805 144.92969 L 472 143.32227 L 472 142 z "
        fill="currentColor" />
   </g>
-  <g
-     id="mail-unread-new">
-    <path
-       d="m30 0h22v22h-22z"
-       opacity="0"
-       id="path662" />
-    <path
-       id="path664"
-       class="ColorScheme-Text"
-       d="M 35 5 C 33.892001 5 33 5.8920011 33 7 L 33 15 C 33 16.107999 33.892001 17 35 17 L 44.767578 17 A 3 3 0 0 1 44 15 L 35 15 L 35 10.392578 L 41 12 L 47 10.392578 L 47 12 A 3 3 0 0 1 49 12.763672 L 49 7 C 49 5.8920011 48.107999 5 47 5 L 35 5 z M 35 7 L 47 7 L 47 8.3222656 L 41 9.9296875 L 35 8.3222656 L 35 7 z "
-       fill="currentColor" />
-    <path
-       class="ColorScheme-Highlight"
-       d="m47 13a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
-       fill="currentColor"
-       id="path668" />
-  </g>
-  <use
-     id="mail-mark-unread-new"
-     transform="translate(27)"
-     xlink:href="#mail-unread-new" />
 </svg>
