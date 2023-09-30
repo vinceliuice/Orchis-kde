@@ -3,7 +3,7 @@
    width="355"
    height="310"
    version="1.0"
-   id="svg146"
+   id="svg1879"
    sodipodi:docname="decoration.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -12,7 +12,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview148"
+     id="namedview1881"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -20,58 +20,94 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="193"
-     inkscape:cy="120.875"
-     inkscape:window-width="3840"
-     inkscape:window-height="2028"
-     inkscape:window-x="0"
-     inkscape:window-y="64"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg146">
+     showgrid="false"
+     inkscape:zoom="2.1532542"
+     inkscape:cx="393.35811"
+     inkscape:cy="71.519656"
+     inkscape:window-width="3093"
+     inkscape:window-height="1651"
+     inkscape:window-x="647"
+     inkscape:window-y="237"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1879"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3601"
+       id="grid284"
        originx="0"
        originy="0"
        spacingy="1"
        spacingx="1"
        units="px"
-       visible="true" />
+       visible="false" />
+    <sodipodi:guide
+       position="40,181"
+       orientation="1,0"
+       id="guide382"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="113,30"
+       orientation="0,-1"
+       id="guide384"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="114,251"
+       orientation="0,-1"
+       id="guide386"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="325,163"
+       orientation="1,0"
+       id="guide388"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="400,176"
+       orientation="1,0"
+       id="guide392"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="685,230"
+       orientation="1,0"
+       id="guide394"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1105,204"
+       orientation="1,0"
+       id="guide398"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
-     id="defs40">
+     id="defs1757">
     <linearGradient
        id="shadow_active">
       <stop
          stop-opacity=".92169"
          offset="0"
-         id="stop2" />
+         id="stop1719" />
       <stop
          stop-opacity=".74096"
          offset=".125"
-         id="stop4" />
+         id="stop1721" />
       <stop
          stop-opacity=".60241"
          offset=".25"
-         id="stop6" />
+         id="stop1723" />
       <stop
          stop-opacity=".33133"
          offset=".5"
-         id="stop8" />
+         id="stop1725" />
       <stop
          stop-opacity=".10843"
          offset=".75"
-         id="stop10" />
+         id="stop1727" />
       <stop
          stop-opacity=".039216"
          offset=".875"
-         id="stop12" />
+         id="stop1729" />
       <stop
          stop-opacity="0"
          offset="1"
-         id="stop14" />
+         id="stop1731" />
     </linearGradient>
     <linearGradient
        id="linearGradient5688"
@@ -88,7 +124,7 @@
        x2="396"
        y1="64.167"
        y2="14.583"
-       gradientTransform="matrix(1,0,0,1.0286,0,140)"
+       gradientTransform="matrix(1,0,0,1.0286,-215,50)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#shadow_active" />
     <linearGradient
@@ -104,27 +140,27 @@
        id="shadow_inactive">
       <stop
          offset="0"
-         id="stop20" />
+         id="stop1737" />
       <stop
          stop-opacity=".63855"
          offset=".25"
-         id="stop22" />
+         id="stop1739" />
       <stop
          stop-opacity=".33735"
          offset=".5"
-         id="stop24" />
+         id="stop1741" />
       <stop
          stop-opacity=".10843"
          offset=".75"
-         id="stop26" />
+         id="stop1743" />
       <stop
          stop-opacity=".039216"
          offset=".875"
-         id="stop28" />
+         id="stop1745" />
       <stop
          stop-opacity="0"
          offset="1"
-         id="stop30" />
+         id="stop1747" />
     </linearGradient>
     <linearGradient
        id="linearGradient6612-5"
@@ -149,7 +185,7 @@
        cx="296.48"
        cy="80.417"
        r="17.5"
-       gradientTransform="matrix(-9.492e-7,-2.9143,-4,1.1504e-6,746.67,1095.08)"
+       gradientTransform="matrix(9.492e-7,-2.9143,4,1.1504e-6,-211.67,980.02)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#shadow_active" />
     <linearGradient
@@ -166,7 +202,7 @@
        cx="48.271"
        cy="178.72"
        r="17.5"
-       gradientTransform="matrix(-4,3.2987075e-6,1.0209e-6,-4.80336,523.08,1159.3777)"
+       gradientTransform="matrix(-4,3.2964e-6,1.0209e-6,-4.8,303.08,1053.9)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#shadow_active" />
     <radialGradient
@@ -185,115 +221,10 @@
        gradientTransform="matrix(-3.7608e-7,-2.0571,2.5714,-5.1233e-7,263.21,725.83)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#shadow_inactive" />
-    <radialGradient
-       id="radialGradient967-3"
-       cx="48.271"
-       cy="181.17999"
-       r="17.5"
-       gradientTransform="matrix(-2.5714,8.72e-7,-2.0148e-7,-1.9429,594.13,548)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_inactive" />
-    <radialGradient
-       id="radialGradient1099"
-       cx="48.271"
-       cy="181.17999"
-       r="17.5"
-       gradientTransform="matrix(-2.5714,8.72e-7,-2.0148e-7,-1.9429,594.13,548)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_inactive" />
-    <radialGradient
-       id="radialGradient965-6"
-       cx="48.271"
-       cy="178.72"
-       r="17.5"
-       gradientTransform="matrix(-4,3.2964643e-6,1.0209e-6,-4.8000936,688.08,1147.9223)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_active" />
-    <radialGradient
-       id="radialGradient1124"
-       cx="48.271"
-       cy="178.72"
-       r="17.5"
-       gradientTransform="matrix(-4,3.2964e-6,1.0209e-6,-4.8,303.08,1053.9)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_active" />
-    <radialGradient
-       id="radialGradient969-7"
-       cx="296.45001"
-       cy="80.417"
-       r="17.5"
-       gradientTransform="matrix(-3.7608e-7,-2.0571,2.5714,-5.1233e-7,263.21,725.83)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_inactive" />
-    <radialGradient
-       id="radialGradient1157"
-       cx="296.45001"
-       cy="80.417"
-       r="17.5"
-       gradientTransform="matrix(-3.7608e-7,-2.0571,2.5714,-5.1233e-7,263.21,725.83)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_inactive" />
-    <radialGradient
-       id="radialGradient1306-5"
-       cx="296.48001"
-       cy="80.417"
-       r="17.5"
-       gradientTransform="matrix(9.492e-7,-2.9143,4,1.1504e-6,-211.67,980.02)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_active" />
-    <radialGradient
-       id="radialGradient1190"
-       cx="296.48001"
-       cy="80.417"
-       r="17.5"
-       gradientTransform="matrix(9.492e-7,-2.9143,4,1.1504e-6,-211.67,980.02)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_active" />
-    <radialGradient
-       id="radialGradient1223"
-       cx="296.48001"
-       cy="80.417"
-       r="17.5"
-       gradientTransform="matrix(9.492e-7,-2.9143,4,1.1504e-6,-211.67,980.02)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_active" />
-    <radialGradient
-       id="radialGradient1241"
-       cx="48.271"
-       cy="181.17999"
-       r="17.5"
-       gradientTransform="matrix(-2.5714,8.72e-7,-2.0148e-7,-1.9429,594.13,548)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_inactive" />
-    <radialGradient
-       id="radialGradient1257"
-       cx="48.271"
-       cy="178.72"
-       r="17.5"
-       gradientTransform="matrix(-4,3.2964e-6,1.0209e-6,-4.8,303.08,1053.9)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_active" />
-    <linearGradient
-       id="linearGradient6612-3"
-       x1="396"
-       x2="396"
-       y1="64.167"
-       y2="14.583"
-       gradientTransform="matrix(1,0,0,1.0286,-215,50)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_active" />
-    <radialGradient
-       id="radialGradient1388"
-       cx="296.45001"
-       cy="80.417"
-       r="17.5"
-       gradientTransform="matrix(-3.7608e-7,-2.0571,2.5714,-5.1233e-7,263.21,725.83)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#shadow_inactive" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#shadow_active"
-       id="linearGradient2680"
+       id="linearGradient2108"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0133,0,0,1,-3.265,140)"
        x1="348.49"
@@ -303,7 +234,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#shadow_inactive"
-       id="linearGradient2682"
+       id="linearGradient2110"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0133,0,0,1,-3.265,140)"
        x1="348.49"
@@ -317,23 +248,18 @@
     <path
        d="m 470,200 v 86 h 145 v -86 z"
        id="path1759"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 470,200 v 86 h 145 v -86 z"
-       opacity="0.35"
-       id="path1761"
-       style="fill:#ffffff" />
+       style="fill:#181818;fill-opacity:1" />
   </g>
   <g
      id="decoration-inactive-topleft"
      transform="translate(140,-121.063)">
     <path
        transform="translate(-140,115.06)"
-       d="M 400,65.003 V 116 h 41 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 65.003 Z"
+       d="M 400,65.003 V 116 l 41,0 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 65.003 Z"
        fill="url(#radialGradient969)"
        opacity="0.5"
        id="path1764"
-       style="fill:url(#radialGradient969-7)"
+       style="fill:url(#radialGradient969)"
        sodipodi:nodetypes="cccssccc" />
     <g
        transform="translate(0,1)"
@@ -345,13 +271,7 @@
            transform="translate(-121,89.063)"
            d="m 453,86 c -6.648,0 -12,5.352 -12,12 v 18 h 29 V 86 Z"
            id="path1766"
-           style="fill:#ececec;opacity:0.8" />
-        <path
-           transform="translate(-121,89.063)"
-           d="m 453,86 c -6.648,0 -12,5.352 -12,12 v 18 h 29 V 86 Z"
-           opacity="0.35"
-           id="path1768"
-           style="fill:#ffffff" />
+           style="fill:#181818;fill-opacity:1" />
       </g>
     </g>
   </g>
@@ -360,25 +280,31 @@
      transform="matrix(-1,0,0,1,604.88,-87)">
     <path
        d="m 279.88,197 v 86 h 41 v -86 z"
+       fill="url(#linearGradient1126)"
+       opacity="0.5"
        id="path1775"
-       style="fill:url(#linearGradient2680);opacity:0.5" />
+       style="fill:url(#linearGradient2108)"
+       sodipodi:nodetypes="ccccc" />
     <path
        transform="translate(-255.12,76)"
        d="m 576,121 v 86 h 29 v -86 z"
        id="path1777"
-       style="fill:#ffffff" />
+       style="fill:#212121;fill-opacity:1" />
   </g>
   <g
      id="decoration-bottom"
      transform="translate(-215,-81)">
     <path
        d="m 325,289 v 72 h 145 v -72 z"
+       fill="url(#linearGradient5688)"
+       opacity="0.5"
        id="path1782"
-       style="fill:url(#linearGradient5688);opacity:0.5" />
+       style="fill:url(#linearGradient5688)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="M 470,277 H 325 v 12 h 145 z"
        id="path1784"
-       style="fill:#ffffff;opacity:0.8" />
+       style="fill:#2c2c2c;fill-opacity:1" />
   </g>
   <g
      id="decoration-top"
@@ -386,12 +312,15 @@
     <path
        transform="translate(215,90)"
        d="M 110,65 V 86 H 255 V 65 Z"
+       fill="url(#linearGradient6612)"
+       opacity="0.5"
        id="path1787"
-       style="fill:url(#linearGradient6612-3);opacity:0.5" />
+       style="fill:url(#linearGradient6612)"
+       sodipodi:nodetypes="ccccc" />
     <path
        d="m 325,176 v 30 h 145 v -30 z"
        id="path1789"
-       style="fill:#ffffff;opacity:1" />
+       style="fill:#212121;fill-opacity:1" />
     <path
        d="m 325,176 v 1 h 145 v -1 z"
        fill="#ffffff"
@@ -403,13 +332,16 @@
      transform="translate(-239.88,-87)">
     <path
        d="m 279.88,197 v 86 h 41 v -86 z"
+       fill="url(#linearGradient1126)"
+       opacity="0.5"
        id="path1796"
-       style="fill:url(#linearGradient1126);opacity:0.5" />
+       style="fill:url(#linearGradient1126)"
+       sodipodi:nodetypes="ccccc" />
     <path
        transform="translate(-255.12,76)"
        d="m 576,121 v 86 h 29 v -86 z"
        id="path1798"
-       style="fill:#ffffff;opacity:1" />
+       style="fill:#212121;fill-opacity:1" />
   </g>
   <g
      id="decoration-inactive-bottom"
@@ -424,7 +356,7 @@
     <path
        d="M 470,276.92 H 325 v 12 h 145 z"
        id="path1805"
-       style="fill:#ececec;fill-opacity:1;opacity:0.8" />
+       style="fill:#212121;fill-opacity:1" />
   </g>
   <g
      id="decoration-inactive-top"
@@ -440,12 +372,7 @@
     <path
        d="m 325,176 v 30 h 145 v -30 z"
        id="path1810"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 325,176 v 30 h 145 v -30 z"
-       opacity="0.35"
-       id="path1812"
-       style="fill:#ffffff" />
+       style="fill:#181818;fill-opacity:1" />
   </g>
   <g
      id="decoration-inactive-left"
@@ -455,17 +382,12 @@
        fill="url(#linearGradient1389)"
        opacity="0.5"
        id="path1815"
-       style="fill:url(#linearGradient2682)"
+       style="fill:url(#linearGradient2110)"
        sodipodi:nodetypes="ccccc" />
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        id="path1817"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 320.88,197.02 v 86 h 29 v -86 z"
-       opacity="0.35"
-       id="path1819"
-       style="fill:#ffffff" />
+       style="fill:#181818;fill-opacity:1" />
   </g>
   <g
      id="decoration-bottomleft"
@@ -474,14 +396,22 @@
        transform="translate(385,94)"
        d="m 81,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
        id="path1822"
-       style="fill:#ffffff;opacity:0.8" />
-    <path
-       d="M 425,290.0056 V 374 h 70 v -71.99417 h -17 c -6.648,0 -12,-5.3521 -12,-12.00023 z"
-       id="path1824"
-       style="fill:url(#radialGradient965-6);stroke-width:1.00001;opacity:0.5" />
+       style="fill:#2c2c2c;fill-opacity:1" />
     <g
-       transform="matrix(1,0,0,0.99932,145,13.31668)"
-       id="g1826" />
+       transform="matrix(1,0,0,0.99932,165,-10.667)"
+       id="g1828">
+      <path
+         transform="matrix(1,0,0,1.0007,220,104.74)"
+         d="m 40,196 v 83.99276 l 70,0 V 208 H 93 c -6.648,0 -12,-5.352 -12,-12 z"
+         fill="url(#radialGradient965)"
+         opacity="0.5"
+         id="path1824"
+         style="fill:url(#radialGradient965)"
+         sodipodi:nodetypes="ccccscc" />
+      <g
+         transform="translate(-20,24)"
+         id="g1826" />
+    </g>
   </g>
   <g
      id="decoration-inactive-bottomleft"
@@ -490,7 +420,7 @@
        transform="translate(0,90)"
        d="m 441,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
        id="path1831"
-       style="fill:#ececec;fill-opacity:1;opacity:0.8" />
+       style="fill:#212121;fill-opacity:1" />
     <g
        transform="matrix(1,0,0,0.99932,140,-14.604)"
        id="g1837">
@@ -500,7 +430,7 @@
          fill="url(#radialGradient967)"
          opacity="0.5"
          id="path1833"
-         style="fill:url(#radialGradient967-3)"
+         style="fill:url(#radialGradient967)"
          sodipodi:nodetypes="ccccscc" />
       <g
          transform="translate(-20,24)"
@@ -571,8 +501,11 @@
     <path
        transform="matrix(-1,0,0,1,535,115.06)"
        d="M 40,65.002 V 116 H 81 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 65.002 Z"
+       fill="url(#radialGradient1306)"
+       opacity="0.5"
        id="path1848"
-       style="fill:url(#radialGradient1306-5);opacity:0.5" />
+       style="fill:url(#radialGradient1306)"
+       sodipodi:nodetypes="cccssccc" />
     <g
        transform="translate(250)"
        id="g1858">
@@ -583,7 +516,7 @@
            transform="translate(239,89.062)"
            d="m 93,86 c -6.648,0 -12,5.352 -12,12 v 18 h 29 V 86 Z"
            id="path1850"
-           style="fill:#ffffff;opacity:1" />
+           style="fill:#212121;fill-opacity:1" />
         <path
            transform="translate(239,95.062)"
            d="m 93,80 c -6.648,0 -12,5.352 -12,12 v 0.59961 c 0,-6.4264 5.352,-11.6 12,-11.6 h 17 v -1 H 93 Z"
@@ -606,12 +539,7 @@
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        id="path1863"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 320.88,197.02 v 86 h 29 v -86 z"
-       opacity="0.35"
-       id="path1865"
-       style="fill:#ffffff" />
+       style="fill:#181818;fill-opacity:1" />
   </g>
   <use
      id="decoration-topright"
@@ -651,7 +579,7 @@
     <path
        d="m 110,200 v 86 h 145 v -86 z"
        id="path1872"
-       style="fill:#ffffff;opacity:1" />
+       style="fill:#212121;fill-opacity:1" />
   </g>
   <g
      id="mask-center"
@@ -665,7 +593,7 @@
      transform="translate(560,-121.05999)">
     <path
        transform="translate(-140,115.06)"
-       d="M 400,64.99999 V 116 h 41 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 64.99999 Z"
+       d="M 400,64.99999 V 116 l 41,0 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 64.99999 Z"
        id="path47-6"
        style="opacity:0"
        sodipodi:nodetypes="cccssccc" />

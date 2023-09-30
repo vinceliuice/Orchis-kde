@@ -5,7 +5,7 @@
    version="1.0"
    id="svg4061"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,14 +21,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.38064516"
-     inkscape:cx="1049.5339"
-     inkscape:cy="349.40678"
-     inkscape:window-width="1026"
-     inkscape:window-height="600"
-     inkscape:window-x="171"
-     inkscape:window-y="46"
-     inkscape:window-maximized="0"
+     inkscape:zoom="4.3065084"
+     inkscape:cx="89.399571"
+     inkscape:cy="168.69815"
+     inkscape:window-width="3840"
+     inkscape:window-height="2028"
+     inkscape:window-x="0"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4061" />
   <defs
      id="defs3955">
@@ -156,7 +156,7 @@
        cx="48.271"
        cy="178.72"
        r="17.5"
-       gradientTransform="matrix(-4,3.2964e-6,1.0209e-6,-4.8,303.08,1053.9)"
+       gradientTransform="matrix(-4,3.2964643e-6,1.0209e-6,-4.8000936,688.08,1147.9223)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#shadow_active" />
     <radialGradient
@@ -226,8 +226,8 @@
     <path
        d="m244.88 197v86h76v-86z"
        fill="url(#linearGradient1126)"
-       opacity=".5"
-       id="path3973" />
+       id="path3973"
+       style="opacity:0.5" />
     <path
        transform="translate(-255.12,76)"
        d="m576 121v86h29v-86z"
@@ -240,8 +240,8 @@
     <path
        d="m325 289v86h145v-86z"
        fill="url(#linearGradient5688)"
-       opacity=".5"
-       id="path3978" />
+       id="path3978"
+       style="opacity:0.5" />
     <path
        d="m470 277h-145v12h145z"
        fill="#fff"
@@ -255,8 +255,8 @@
        transform="translate(215,90)"
        d="m110 50v36h145v-36z"
        fill="url(#linearGradient6612)"
-       opacity=".5"
-       id="path3983" />
+       id="path3983"
+       style="opacity:0.5" />
     <path
        d="m325 176v30h145v-30z"
        fill="#fff"
@@ -273,8 +273,8 @@
     <path
        d="m244.88 197v86h76v-86z"
        fill="url(#linearGradient1126)"
-       opacity=".5"
-       id="path3990" />
+       id="path3990"
+       style="opacity:0.5" />
     <path
        transform="translate(-255.12,76)"
        d="m576 121v86h29v-86z"
@@ -342,16 +342,10 @@
        fill="#fff"
        opacity=".8"
        id="path4014" />
-    <g
-       transform="matrix(1 0 0 .99932 165 -10.667)"
-       id="g4018">
-      <path
-         transform="matrix(1,0,0,1.0007,220,104.74)"
-         d="m5 196v98h105v-86h-17c-6.648 0-12-5.352-12-12z"
-         fill="url(#radialGradient965)"
-         opacity=".5"
-         id="path4016" />
-    </g>
+    <path
+       d="m 390,290.0056 v 98.00191 h 105 v -86.00168 h -17 c -6.648,0 -12,-5.3521 -12,-12.00023 z"
+       id="path4016"
+       style="fill:url(#radialGradient965);stroke-width:1.00001;opacity:0.5" />
   </g>
   <g
      id="decoration-inactive-bottomleft"
@@ -438,8 +432,8 @@
        transform="matrix(-1,0,0,1,535,115.06)"
        d="m5 50v66h76v-18c0-6.648 5.352-12 12-12h17v-36z"
        fill="url(#radialGradient1306)"
-       opacity=".5"
-       id="path4036" />
+       id="path4036"
+       style="opacity:0.5" />
     <g
        transform="translate(250)"
        id="g4044">

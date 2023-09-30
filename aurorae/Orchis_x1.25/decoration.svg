@@ -5,7 +5,7 @@
    version="1.0"
    id="svg146"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="161.25"
-     inkscape:cy="18.75"
+     inkscape:zoom="4"
+     inkscape:cx="261.75"
+     inkscape:cy="210.375"
      inkscape:window-width="3840"
      inkscape:window-height="2028"
      inkscape:window-x="0"
@@ -34,7 +34,11 @@
        type="xygrid"
        id="grid3601"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs40">
@@ -153,7 +157,7 @@
        cx="48.271"
        cy="178.72"
        r="17.5"
-       gradientTransform="matrix(-4,3.2964e-6,1.0209e-6,-4.8,303.08,1053.9)"
+       gradientTransform="matrix(-4,3.2964643e-6,1.0209e-6,-4.8000936,688.08,1147.9223)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#shadow_active" />
     <radialGradient
@@ -251,11 +255,8 @@
      transform="matrix(-1.2499999,0,0,1.2499999,746.09992,-123.49997)">
     <path
        d="m 279.88,197 v 86 h 41 v -86 z"
-       fill="url(#linearGradient1126)"
-       opacity="0.5"
        id="path1775"
-       style="fill:url(#linearGradient2680)"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:url(#linearGradient2680);opacity:0.5" />
     <path
        transform="translate(-255.12,76)"
        d="m 576,121 v 86 h 29 v -86 z"
@@ -267,11 +268,8 @@
      transform="matrix(1.2499999,0,0,1.2499999,-278.74996,-115.99997)">
     <path
        d="m 325,289 v 72 h 145 v -72 z"
-       fill="url(#linearGradient5688)"
-       opacity="0.5"
        id="path1782"
-       style="fill:url(#linearGradient5688)"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:url(#linearGradient5688);opacity:0.5" />
     <path
        d="M 470,277 H 325 v 12 h 145 z"
        id="path1784"
@@ -283,11 +281,8 @@
     <path
        transform="translate(215,90)"
        d="M 110,65 V 86 H 255 V 65 Z"
-       fill="url(#linearGradient6612)"
-       opacity="0.5"
        id="path1787"
-       style="fill:url(#linearGradient6612-3)"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:url(#linearGradient6612-3);opacity:0.5" />
     <path
        d="m 325,176 v 30 h 145 v -30 z"
        id="path1789"
@@ -303,11 +298,8 @@
      transform="matrix(1.2499999,0,0,1.2499999,-309.84996,-123.49997)">
     <path
        d="m 279.88,197 v 86 h 41 v -86 z"
-       fill="url(#linearGradient1126)"
-       opacity="0.5"
        id="path1796"
-       style="fill:url(#linearGradient1126)"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:url(#linearGradient1126);opacity:0.5" />
     <path
        transform="translate(-255.12,76)"
        d="m 576,121 v 86 h 29 v -86 z"
@@ -378,21 +370,13 @@
        d="m 81,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
        id="path1822"
        style="opacity:0.8;fill:#ffffff" />
+    <path
+       d="M 425,290.0056 V 374 h 70 v -71.99417 h -17 c -6.648,0 -12,-5.3521 -12,-12.00023 z"
+       id="path1824"
+       style="fill:url(#radialGradient965-6);stroke-width:1.00001;opacity:0.5" />
     <g
-       transform="matrix(1,0,0,0.99932,165,-10.667)"
-       id="g1828">
-      <path
-         transform="matrix(1,0,0,1.0007,220,104.74)"
-         d="m 40,196 v 83.99276 h 70 V 208 H 93 c -6.648,0 -12,-5.352 -12,-12 z"
-         fill="url(#radialGradient965)"
-         opacity="0.5"
-         id="path1824"
-         style="fill:url(#radialGradient965-6)"
-         sodipodi:nodetypes="ccccscc" />
-      <g
-         transform="translate(-20,24)"
-         id="g1826" />
-    </g>
+       transform="matrix(1,0,0,0.99932,145,13.31668)"
+       id="g1826" />
   </g>
   <g
      id="decoration-inactive-bottomleft"
@@ -490,11 +474,8 @@
     <path
        transform="matrix(-1,0,0,1,535,115.06)"
        d="M 40,65.002 V 116 H 81 V 98 c 0,-6.648 5.352,-12 12,-12 h 17 V 65.002 Z"
-       fill="url(#radialGradient1306)"
-       opacity="0.5"
        id="path1848"
-       style="fill:url(#radialGradient1306-5)"
-       sodipodi:nodetypes="cccssccc" />
+       style="fill:url(#radialGradient1306-5);opacity:0.5" />
     <g
        transform="translate(250)"
        id="g1858">

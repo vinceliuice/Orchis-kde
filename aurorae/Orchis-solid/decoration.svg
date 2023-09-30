@@ -13,7 +13,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview148"
-     pagecolor="#ffffff"
+     pagecolor="#c2c2c2"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:showpageshadow="2"
@@ -22,8 +22,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="4"
-     inkscape:cx="193"
-     inkscape:cy="120.875"
+     inkscape:cx="386.375"
+     inkscape:cy="139.625"
      inkscape:window-width="3840"
      inkscape:window-height="2028"
      inkscape:window-x="0"
@@ -317,12 +317,7 @@
     <path
        d="m 470,200 v 86 h 145 v -86 z"
        id="path1759"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 470,200 v 86 h 145 v -86 z"
-       opacity="0.35"
-       id="path1761"
-       style="fill:#ffffff" />
+       style="fill:#ececec;opacity:1" />
   </g>
   <g
      id="decoration-inactive-topleft"
@@ -345,13 +340,7 @@
            transform="translate(-121,89.063)"
            d="m 453,86 c -6.648,0 -12,5.352 -12,12 v 18 h 29 V 86 Z"
            id="path1766"
-           style="fill:#ececec;opacity:0.8" />
-        <path
-           transform="translate(-121,89.063)"
-           d="m 453,86 c -6.648,0 -12,5.352 -12,12 v 18 h 29 V 86 Z"
-           opacity="0.35"
-           id="path1768"
-           style="fill:#ffffff" />
+           style="fill:#ececec;opacity:1" />
       </g>
     </g>
   </g>
@@ -378,7 +367,7 @@
     <path
        d="M 470,277 H 325 v 12 h 145 z"
        id="path1784"
-       style="fill:#ffffff;opacity:0.8" />
+       style="fill:#f5f5f5;opacity:1;fill-opacity:1" />
   </g>
   <g
      id="decoration-top"
@@ -406,10 +395,10 @@
        id="path1796"
        style="fill:url(#linearGradient1126);opacity:0.5" />
     <path
-       transform="translate(-255.12,76)"
        d="m 576,121 v 86 h 29 v -86 z"
        id="path1798"
-       style="fill:#ffffff;opacity:1" />
+       style="fill:#ffffff;opacity:1"
+       transform="translate(-255.12,76)" />
   </g>
   <g
      id="decoration-inactive-bottom"
@@ -424,7 +413,7 @@
     <path
        d="M 470,276.92 H 325 v 12 h 145 z"
        id="path1805"
-       style="fill:#ececec;fill-opacity:1;opacity:0.8" />
+       style="fill:#e5e5e5;fill-opacity:1;opacity:1" />
   </g>
   <g
      id="decoration-inactive-top"
@@ -440,12 +429,7 @@
     <path
        d="m 325,176 v 30 h 145 v -30 z"
        id="path1810"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 325,176 v 30 h 145 v -30 z"
-       opacity="0.35"
-       id="path1812"
-       style="fill:#ffffff" />
+       style="fill:#ececec;opacity:1" />
   </g>
   <g
      id="decoration-inactive-left"
@@ -460,12 +444,7 @@
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        id="path1817"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 320.88,197.02 v 86 h 29 v -86 z"
-       opacity="0.35"
-       id="path1819"
-       style="fill:#ffffff" />
+       style="fill:#ececec;opacity:1" />
   </g>
   <g
      id="decoration-bottomleft"
@@ -474,7 +453,7 @@
        transform="translate(385,94)"
        d="m 81,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
        id="path1822"
-       style="fill:#ffffff;opacity:0.8" />
+       style="fill:#f5f5f5;opacity:1;fill-opacity:1" />
     <path
        d="M 425,290.0056 V 374 h 70 v -71.99417 h -17 c -6.648,0 -12,-5.3521 -12,-12.00023 z"
        id="path1824"
@@ -490,7 +469,7 @@
        transform="translate(0,90)"
        d="m 441,196 c 0,6.648 5.352,12 12,12 h 17 v -12 z"
        id="path1831"
-       style="fill:#ececec;fill-opacity:1;opacity:0.8" />
+       style="fill:#e5e5e5;fill-opacity:1;opacity:1" />
     <g
        transform="matrix(1,0,0,0.99932,140,-14.604)"
        id="g1837">
@@ -606,12 +585,7 @@
     <path
        d="m 320.88,197.02 v 86 h 29 v -86 z"
        id="path1863"
-       style="fill:#ececec;opacity:0.8" />
-    <path
-       d="m 320.88,197.02 v 86 h 29 v -86 z"
-       opacity="0.35"
-       id="path1865"
-       style="fill:#ffffff" />
+       style="fill:#ececec;opacity:1" />
   </g>
   <use
      id="decoration-topright"
