@@ -7,7 +7,10 @@
                 "Name": "Vince Liuice"
             }
         ],
-        "Category": "",
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
         "Description": "Orchis dark theme for kde plasma",
         "Id": "com.github.vinceliuice.Orchis-dark",
         "License": "GPLv3",
@@ -15,7 +18,15 @@
         "Website": "https://github.com/vinceliuice/Orchis-kde",
         "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
         "X-Plasma-APIVersion": "2",
-        "X-Plasma-MainScript": "defaults",
-        "X-KPackage-Dependencies": "kns://colorschemes.knsrc/api.kde-look.org/1458910,kns://plasma-themes.knsrc/api.kde-look.org/1458916,kns://aurorae.knsrc/api.kde-look.org/1458912,kns://icons.knsrc/api.kde-look.org/1359276,kns://wallpaper.knsrc/api.kde-look.org/1458908,kns://sddmtheme.knsrc/api.kde-look.org/1458914,kns://xcursor.knsrc/api.kde-look.org/1358330"
-    }
+        "X-Plasma-MainScript": "defaults"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1458910",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1458916",
+        "kns://aurorae.knsrc/api.kde-look.org/1458912",
+        "kns://wallpaper.knsrc/api.kde-look.org/1458908",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1458914",
+        "kns://icons.knsrc/api.kde-look.org/1359276",
+        "kns://xcursor.knsrc/api.kde-look.org/1358330"
+    ]
 }
