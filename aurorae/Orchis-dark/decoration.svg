@@ -5,7 +5,7 @@
    version="1.0"
    id="svg1879"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,54 +21,25 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="1.0766271"
-     inkscape:cx="791.36037"
-     inkscape:cy="204.34188"
-     inkscape:window-width="3093"
-     inkscape:window-height="1651"
-     inkscape:window-x="647"
-     inkscape:window-y="237"
+     inkscape:zoom="2.1532542"
+     inkscape:cx="165.33115"
+     inkscape:cy="187.62299"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1879"
      showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid284" />
-    <sodipodi:guide
-       position="40,181"
-       orientation="1,0"
-       id="guide382"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="113,30"
-       orientation="0,-1"
-       id="guide384"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="114,251"
-       orientation="0,-1"
-       id="guide386"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="325,163"
-       orientation="1,0"
-       id="guide388"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="400,176"
-       orientation="1,0"
-       id="guide392"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="685,230"
-       orientation="1,0"
-       id="guide394"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1105,204"
-       orientation="1,0"
-       id="guide398"
-       inkscape:locked="false" />
+       id="grid284"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs1757">
